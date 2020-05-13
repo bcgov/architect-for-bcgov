@@ -83,10 +83,11 @@ The summary will outline the current state of government’s 1600+ application p
 **C: Playbook for Modern Application Architecture**<br>
 The playbook will provide guidance on adoption strategies, efficiencies, and implementation.
 *	Adoption strategies – 6Rs (rehost, replatform, repurchase, refactor, retire, and retain)
+  * Standardized, objective, and automated calculation of transition strategies for applications, based on strategy, goals and application portfolio assessment
 *	Lessons learned and key success factors
 *	Analysis of 6Rs against common application archetypes
 *	Resources (e.g. standards, other supports in government)
-*	Cost analysis guidance
+*	Cost analysis guidance - align future spend to business value delivered
 
 **D: Future State Blueprint**<br>
 The blueprint will propose a reference architecture and measurable use cases delivering high business impact. Connected is the Common Components Program Framework. This will need community participation and executive governance. 
