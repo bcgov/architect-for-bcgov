@@ -110,6 +110,13 @@ Will review policy instruments and principles influencing the Framework and co-c
 *	[Digital Principles](https://github.com/bcgov/digital-principles)<br>
 *	[Ten Principles of Privacy Protection](https://www2.gov.bc.ca/gov/content/employment-business/business/managing-a-business/protect-personal-information/principles)<br>
 
+**F: Execution Structure**<br>
+Leveraging BC's established agile and DevOps practices, this framework should:
+* Use Agile execution teams to execute on migration strategies that are tailored to each application group 
+* Scale out execution teams from one initial team, to multiple parallel workstreams
+* Craft sprint plans and estimates based on function point analysis from *B's Portfolio assessment*
+* Deliver incremental value to the province through a phased modernization approach
+
 We want to hear from you.<br>
 > What are your thoughts on these deliverables?<br>
 > Are we missing any key themes?<br>
