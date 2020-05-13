@@ -76,6 +76,9 @@ The summary will outline the current state of government’s 1600+ application p
 *	What is the average amount of time since the last minor and major releases of the custom-built applications? 
 *	What are the underlying technologies and is support available?
 *	Are there specific types or classes of applications? 
+* Source code vulnerabilities within existing applications
+* Measured "migration difficulty" for code and database replatforming to cloud-native technologies
+* What is the business value delivered for each application?
 
 **C: Playbook for Modern Application Architecture**<br>
 The playbook will provide guidance on adoption strategies, efficiencies, and implementation.
