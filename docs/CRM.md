@@ -1,6 +1,7 @@
 #Customer Relationship Management
-
+Software / Business Applicaiton
 Archetype: Customer Relationship Management
+
 
 What is it?  
 Customer relationship management (CRM) is the management of an organization's interaction with current and potential customers. Customers in a public sector context include citizens, businesses, and other stakeholders. Some defining features of a CRM include a centralized contact list and correspondence tracking. A CRM may include workflow capabilities, analytical features to measure customer satisfaction, lead potential, and integrations with call centre applications, and other communication systems such as email. 
