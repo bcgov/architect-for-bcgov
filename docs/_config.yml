@@ -1,9 +1,8 @@
-theme: just-the-docs
+theme: "just-the-docs"
 
 aux_links:
   "Edit on Github":
-    - "//github.com/bcgov/HADF-Overview"
-    
+
 footer_content: "<a href='https://gov.bc.ca/'>
   <img 
     src='/HADF-Overview/assets/images/BCID_H_rgb_pos.png' 
