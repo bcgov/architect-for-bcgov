@@ -36,6 +36,4 @@ jobs:
     - name: deploy to target directory
       uses: ./
       with:
-        username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
         remote_url: https://github.com/poornima-sivanand/docs.git
