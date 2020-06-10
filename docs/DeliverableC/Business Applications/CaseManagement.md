@@ -16,3 +16,38 @@ Examples of Case Management: Delivery and tracking of services to a specific ind
 Preferred Direction:  To aggregate need, recognize high-level use cases, and recomment approaches to address the need.  There may also be opportuniteis to decompose larger case management requirements, so that they may be addressed with smaller contracts or services or solutions.
 
 For discussion: How does case management influence the case collective?  That is, upon "completion" of a case, it may become part of a larger collection available for the (public) consumption (open data).  What does a common service look like in this context?
+
+CRM Procurement
+In 2018 the Province of BC submitted a Request of Qualification (RFQ) to build a pre-qualified list of vendors for cloud CRM platform vendors that are able to seamlessly manage the diverse set of government-to-citizen, or government-to-organization, interactions that comprise the “citizen lifecycle” leveraging multi-channel delivery to support integrated service delivery, both internal and external to government.
+Applicants are screened by the Province on technical, security, and privacy requirements outlined in RFQ Questionnaire and does not include implementation or other related professional services or subscription resellers. 
+The RFQ is open for 5 years leading to four successful applicants:
+Salesforce: 
+•	Contract in place for core government
+•	PIA and STRA for PII
+•	Process tested: SDPR, MHA, OCIO, AVED, Justice, LRB, Employment Standards Tribunal, Employment Standards Board, Employment and Assistance Appeal Tribunal, TAC, Civil Forfeiture Office, CFD, JTT, Civil Resolution Tribunal
+Microsoft Dynamics 365
+•	Contract in place for core government
+•	PIA and STRA for Non-PII
+•	Process tested: AVED, AG, CITZ, Education, SDPR, BC Emergency Health Services
+ServiceNow
+•	Successful Screening
+•	No Contract, PIA, or STRA
+Oracle Fusion
+•	Successful Screening
+•	No Contract, PIA, or STRA
+
+CRM Adoption
+Salesforce
+•	Process tested: SDPR, MHA, OCIO, AVED, Justice, LRB, Employment Standards Tribunal, Employment Standards Board, Employment and Assistance Appeal Tribunal, TAC, Civil Forfeiture Office, CFD, JTT, Civil Resolution Tribunal
+Microsoft Dynamics 365
+•	Process tested: AVED, AG, CITZ, Education, SDPR, BC Emergency Health Services
+ServiceNow
+•	Awaiting first initiative
+Oracle Fusion
+•	Awaiting first initiative
+
+Cost
+Test case: a
+COTs vs Custom vs Open Source
+
+
