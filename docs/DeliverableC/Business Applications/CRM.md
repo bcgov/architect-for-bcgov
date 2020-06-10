@@ -30,11 +30,13 @@ The RFQ is open for 5 years leading to four successful applicants:
 Salesforce:
 
 • Contract in place for core government 
+
 • PIA and STRA for PII
 
 Microsoft Dynamics 365
 
 • Contract in place for core government 
+
 • PIA and STRA for Non-PII
 
 ServiceNow
