@@ -164,7 +164,7 @@ hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border:
 @media (min-width: 50rem) { .main-content-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; -webkit-overflow-scrolling: touch; overflow-x: hidden; overflow-y: scroll; } }
 
 @media (min-width: 50rem) { .main-content { position: relative; max-width: 800px; margin-left: 248px; } }
-@media (min-width: 66.5rem) { .main-content { margin-left: calc( (100% - 1064px) / 2 + 264px ); } }
+@media (min-width: 66.5rem) { .main-content { margin-left: calc((100% - 1064px) / 2 + 264px); } }
 
 .js-main-content:focus { outline: none; }
 

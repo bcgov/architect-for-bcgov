@@ -19,3 +19,9 @@ Examples: Out-of-the-box Microsoft Dynamics could be classified as a CRM system,
 Preferred Direction: Distinguish CRM from the platforms upon which they’re built.  Determine guidelines for the use of both, and provide advisory services for implementation of both.  Guard against the accidental overlap – build upon a CRM platform must be an explicit and fully-informed decision, to guard against vendor product and service lock-in, and to optimize exit costs. 
 
 For discussion: Should "lower-level" capabilities like the ones mentioned above (mail, analytics, workflow) be in this list, or a separate list, or neither?
+
+
+## Pros: COTS CRM Solution vs Custom build CRM Solution
+
+
+## Con: COTS CRM soution vs Custom build CRM Solution  
