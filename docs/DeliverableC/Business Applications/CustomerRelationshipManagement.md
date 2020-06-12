@@ -74,7 +74,48 @@ The RFQ is open for 5 years leading to four successful applicants:
 
 ## Open Source CRM tools
 
-   ![](assets/OpensourceCRM.png)
+### HubSpot CRM
+   HubSpot CRM was started in 2004 and provides tools that can be used by small to large enterprises. HubSpot CRM provides free marketing, sales, customer service, and contact management tools.
+
+#### Features
+
+    ✓ Contact management                 ✓ Ad management
+    ✓ Contact website activity           ✓ Conversations inbox
+    ✓ Companies                          ✓ Reporting dashboard
+    ✓ Deals                              ✓ Email tracking & notifications
+    ✓ Tasks & activities                 ✓ Email templates
+    ✓ Company insights                   ✓ Canned snippets
+    ✓ Gmail and Outlook integration      ✓ Canned snippets
+    ✓ App Marketplace integrations       ✓ Documents
+    ✓ Custom support form fields         ✓ Calling
+    ✓ Prospects                          ✓ Meeting scheduling
+    ✓ Ticketing                          ✓ Messenger integration
+    ✓ Forms                              ✓ Custom properties
+
+#### Pros
+
+    ✓ Unlimited number of users                        ✓ Unlimited Contacts
+    ✓ 1,000,000 contacts                               ✓ SaaS solution 
+    ✓ No additional hardware costs                     ✓ All CRM functionality available for free
+    ✓ Can be integrated with additional
+      sales and marketing tools for free
+
+#### Cons
+
+    ✕ Limited syncing between contact and deal data    ✕ Weak search function
+    ✕ Inability to log email attachments to contact    ✕ Large range of features, but lack depth
+      records
+
+
+
+## Infrastructure options for CRM 
+
+### Cloud
+
+### On Prem 
+
+
+### Hybrid
 
    
 ## Test case:
