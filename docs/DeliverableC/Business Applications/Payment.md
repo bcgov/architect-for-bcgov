@@ -12,3 +12,7 @@ What is it? A payment system is any system used to settle financial transactions
 Keywords: Bank, credit card, debit.
 
 What is it not? Payment processing is largely centralized via Provincial Treasury (MFIN), which provides cash management, bank payment processing, revenue consolidation and electronic banking services to ministries, Crown corporations and public sector agencies. Ministry-specific funding to stakeholders should be categorized as financial management.
+
+## Payment App Architecture
+
+ 
