@@ -16,3 +16,4 @@ Examples of Case Management: Delivery and tracking of services to a specific ind
 Preferred Direction:  To aggregate need, recognize high-level use cases, and recomment approaches to address the need.  There may also be opportuniteis to decompose larger case management requirements, so that they may be addressed with smaller contracts or services or solutions.
 
 For discussion: How does case management influence the case collective?  That is, upon "completion" of a case, it may become part of a larger collection available for the (public) consumption (open data).  What does a common service look like in this context?
+
