@@ -41,7 +41,7 @@ nav_order: 3
 
 ## The BC Gov Story
 
-    There are several applications being deployed in containers, as well as work is underway on lifting and shifting applications from legacy systems to the Openshift Platform.
+  There are several applications being deployed in containers, as well as work is underway on lifting and shifting applications from legacy systems to the Openshift Platform.
 
 ### Application statistics
 

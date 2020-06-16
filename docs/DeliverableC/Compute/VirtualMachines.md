@@ -29,7 +29,7 @@ nav_order: 2
 
 ## The BC Gov Story
 
-   BC Government has two datacenters, one located in Kamloops and the other in Calgary. The one is Calgary is mostly used to host Delivery and Test Environments and the one in Kamloops hosts the production environments.
+  BC Government has two datacenters, one located in Kamloops and the other in Calgary. The one is Calgary is mostly used to host Delivery and Test Environments and the one in Kamloops hosts the production environments.
 
 ### Application statistics
 
