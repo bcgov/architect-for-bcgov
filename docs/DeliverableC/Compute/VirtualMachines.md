@@ -10,6 +10,7 @@ nav_order: 2
 
   To overcome issues with physical hardware, the concept of virtual servers was introduced.  Virtualization is the process of running an instance of a computer system in a layer abstracted from the actual hardware. Virtual machines share resources such as CPU, RAM and storage from the host or base machine. The base machines knows of these machines as regular files, but with the help of a virtualization platform also known as a hypervisor, these files can be converted to machines to run your applications. Virtual Machines can be stored as images and can be easily transported from one hardware to another. 
 
+[AWS vs GCP vs Azure Virtual Machines](assets/VirtualMachineComparison.xlsx)
 
 ## Pros
 
@@ -23,8 +24,8 @@ nav_order: 2
   1. Virtual Machines enact Physical servers and can become of large size due to added Application dependencies and have a large Operating System footprint.
 
   2. Virtual Machines contain operating systems installed on them and thereby might take a long time to startup. Especially, while applying the principles of continuous integration and delivery, if the virtual machine should be easily destroyable and deployabled when needed, the Operating System booting could introduce significant delays.
-
-
+ 
+ 
 
 ## The BC Gov Story
 

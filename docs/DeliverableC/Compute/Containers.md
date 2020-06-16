@@ -20,6 +20,7 @@ nav_order: 3
 
   By using containers, and configuring them for high availability and resilience, you can ensure that, even if the node on which the container lives crashes, the replicas on other nodes remain unaffected. It has been found that the overall cluster availability was 99.99% for the BC Gov Openshift Cluster even though individual node availability has been around 80%.
 
+[Virtual Machines vs Containers](assets/VMVsContainers.xlsx)
 
 ## Pros
 
@@ -37,9 +38,10 @@ nav_order: 3
   
   3. Only applications that are designed to run as a set of discreet microservices stand to gain the most from containers
 
+
 ## The BC Gov Story
 
-   BC Government has 
+    There are several applications being deployed in containers, as well as work is underway on lifting and shifting applications from legacy systems to the Openshift Platform.
 
 ### Application statistics
 
