@@ -22,7 +22,7 @@ For discussion: Should "lower-level" capabilities like the ones mentioned above 
 
 CRM Procurement 
 
-In 2018 the Province of BC submitted a Request of Qualification (RFQ) to build a pre-qualified list of vendors for cloud CRM platform vendors that are able to seamlessly manage the diverse set of government-to-citizen, or government-to-organization, interactions that comprise the “citizen lifecycle” leveraging multi-channel delivery to support integrated service delivery, both internal and external to government.
+In 2018 the Province of BC submitted a Request of Qualification (RFQ 060518 CUSTOMER RELATIONSHIP MANAGEMENT (“CRM”) PLATFORM) to build a pre-qualified list of vendors for cloud CRM platform vendors that are able to seamlessly manage the diverse set of government-to-citizen, or government-to-organization, interactions that comprise the “citizen lifecycle” leveraging multi-channel delivery to support integrated service delivery, both internal and external to government.
 
 Applicants are screened by the Province on technical, security, and privacy requirements outlined in RFQ Questionnaire. The RFQ does not include implementation or other related professional services or subscription resellers.
 
