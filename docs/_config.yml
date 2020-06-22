@@ -1,4 +1,4 @@
-remote_theme: "BCWDS-Jekyll"
+remote_theme: "bcgov/BCWDS-Jekyll"
 #theme: "just-the-docs"
 aux_links:
   "Edit on Github":
