@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Data Store
+parent: Unstructured Data Storage
 title: NoSQL Database
 nav_order: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Data Store
+parent: Structured Data Storage
 title: Relational Database
 nav_order: 2
 ---

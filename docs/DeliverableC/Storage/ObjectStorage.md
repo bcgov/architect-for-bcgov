@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Physical Storage
+parent: Unstructured Data Storage
 title: Object Storage
 nav_order: 1
 ---
