@@ -1,12 +1,12 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Data Store
-title: Relational Database
+parent: Unstructured Data Storage
+title: NoSQL Database
 nav_order: 2
 ---
 
 
-# Relational Database
+# NoSQL Database
 
 ************ Work in Progress **************

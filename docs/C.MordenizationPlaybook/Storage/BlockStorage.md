@@ -1,12 +1,12 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Data Store
-title: NoSQL Database
+parent: Unstructured Data Storage
+title: Block Storage
 nav_order: 2
 ---
 
 
-# NoSQL Database
+# Block Storage
 
 ************ Work in Progress **************

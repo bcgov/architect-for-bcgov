@@ -1,12 +1,12 @@
 ---
 layout: default
 grand_parent: Storage
-parent: Physical Storage
-title: Block Storage
+parent: Structured Data Storage
+title: Relational Database
 nav_order: 2
 ---
 
 
-# Block Storage
+# Relational Database
 
 ************ Work in Progress **************
