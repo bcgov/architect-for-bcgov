@@ -59,6 +59,8 @@ Oracle Fusion
 • Successful Screening 
 • No Contract, PIA, or STRA
 
+![](assets/images/Qualified-CRM.png)
+
 ### CRM Adoption
 
 Salesforce
