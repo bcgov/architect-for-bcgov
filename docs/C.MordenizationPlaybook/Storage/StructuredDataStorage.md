@@ -7,6 +7,6 @@ nav_order: 1
 ---
 
 
-# Physical Storage
+# Structured Data Storage
 
 ************ Work in Progress **************
