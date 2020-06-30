@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Content Management
+grand_parent: C. Modernization Playbook
 parent: Business Applications
 nav_order: 17
 ---
