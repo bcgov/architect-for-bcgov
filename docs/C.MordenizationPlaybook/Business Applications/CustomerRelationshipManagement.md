@@ -61,25 +61,12 @@ Oracle Fusion
 • Successful Screening 
 • No Contract, PIA, or STRA
 
-![](assets/images/Qualified-CRM.png)
 
 ### CRM Adoption
 
-Salesforce
 
-• Process tested: SDPR, MHA, OCIO, AVED, Justice, LRB, Employment Standards Tribunal, Employment Standards Board, Employment and Assistance Appeal Tribunal, TAC, Civil Forfeiture Office, CFD, JTT, Civil Resolution Tribunal
+![](assets/images/Qualified-CRM.png)
 
-Microsoft Dynamics 365
-
-• Process tested: AVED, AG, CITZ, Education, SDPR, BC Emergency Health Services
-
-ServiceNow
-
-• Awaiting first initiative
-
-Oracle Fusion
-
-• Awaiting first initiative
 
 ## Other CRM options
 
@@ -119,9 +106,21 @@ HubSpot CRM was started in 2004 and provides tools that can be used by small to 
       records
 
 
-
 ### Serverless Options
 
+  Deploying a CRM solution on Cloud as opposed to hosting one on prem has the following benefits:
+
+  1. There would be no underlying hardware or infrastructure or maintain
+  2. Ensure high availability and resilience
+  3. There would be tighter integrations with other cloud products
+  4. It would be easier and faster to implement a CRM solution on cloud
+  5. The CRM applications would be highly scalable on cloud
+
+  In order to further reduce costs, you can make use of Functions as a Service (FaaS) to execute tasks which happen less frequently in order to save cloud resources. 
+  
+  For example, Approvals and Consents on Applications might not happen very frequently. It would be best to trigger these operations as serverless functions when these events are triggered. 
+
+  ![](assets/images/example-serverless.png)
 
 ## Implementation Approaches
 ## On Prem
