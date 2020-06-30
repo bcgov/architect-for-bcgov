@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Case Management
+grand_parent: C. Modernization Playbook
 parent: Business Applications
 nav_order: 2
 ---
