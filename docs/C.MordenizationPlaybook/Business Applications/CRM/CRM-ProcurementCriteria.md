@@ -1,11 +1,4 @@
----
-layout: default
-grand_parent: Business Applications
-parent: Customer Relationship Management
-title: Customer Relationship Management - Screening Criteria
-nav_order: 1
----
-# Customer Relationship Management - Screening Criteria
+# Screening Criteria
 
 CRM vendors were screened based on their ability to meet (self-attested) all of the following mandatory
 requirements:
