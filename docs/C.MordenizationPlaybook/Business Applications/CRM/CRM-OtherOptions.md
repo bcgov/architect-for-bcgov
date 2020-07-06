@@ -20,20 +20,6 @@ nav_order: 2
 <br />
 HubSpot CRM<sup> *1* </sup> was started in 2004 and provides tools that can be used by small to large enterprises. HubSpot CRM provides free marketing, sales, customer service, and contact management tools.
 
-##### Features
-
-    ✓ Contact management                 ✓ Ad management
-    ✓ Contact website activity           ✓ Conversations inbox
-    ✓ Companies                          ✓ Reporting dashboard
-    ✓ Deals                              ✓ Email tracking & notifications
-    ✓ Tasks & activities                 ✓ Email templates
-    ✓ Company insights                   ✓ Canned snippets
-    ✓ Gmail and Outlook integration      ✓ Canned snippets
-    ✓ App Marketplace integrations       ✓ Documents
-    ✓ Custom support form fields         ✓ Calling
-    ✓ Prospects                          ✓ Meeting scheduling
-    ✓ Ticketing                          ✓ Messenger integration
-    ✓ Forms                              ✓ Custom properties
 
 ##### Pros <sup> *2* </sup>
 
@@ -50,22 +36,6 @@ HubSpot CRM<sup> *1* </sup> was started in 2004 and provides tools that can be u
 <br />
 SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PHP. SuiteCRM can be downloaded for free and installed on any physical server or on cloud. SuiteCRM also offers a hosted CRM option called Suite:OnDemand which however comes with a price.
 
-##### Features
-
-    ✓ Accounts management          ✓ Events management            ✓ Quotes module
-    ✓ Bug tacking                  ✓ Invoices module              ✓ Reports module   
-    ✓ Calendar management          ✓ Knowledge Base module        ✓ Targets module   
-    ✓ Calls module                 ✓ Leads module                 ✓ Target Lists module
-    ✓ Campaigns module             ✓ Meetings module              ✓ Tasks module
-    ✓ Cases module                 ✓ Notes module                 ✓ Workflow module
-    ✓ Contacts module              ✓ Opportunities module         ✓ Responsive layout feature
-    ✓ Contracts management         ✓ PDF Templates module         ✓ Languages feature
-    ✓ Documents repository         ✓ Products catalogue           ✓ Customizable frontpage feature
-    ✓ Emails module                ✓ Projects module              ✓ Role Management feature 
-    ✓ Customizable menu feature    ✓ User Management feature      ✓ Advanced Search feature       
-    ✓ Developer Tools feature      ✓ Password Management feature  ✓ Desktop Notifications feature 
-    ✓ Rest API feature             ✓ System settings feature      
-    ✓ Security Suite Group Management feature
     
 ##### Pros <sup> *4* </sup>
 
