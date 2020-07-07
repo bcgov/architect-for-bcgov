@@ -17,25 +17,25 @@ Service operations between 2 user types as per below. Reporting volume is low (1
 
 Cost is determined based on following factors:
 
-1.	# of tenancy
+1.	No of tenancy
 
-2.	# of licences (base)
+2.	No of licences (base)
 
-3.	# of licences (attached)
+3.	No of licences (attached)
 
 4.	Data/tenancy
 
 5.	Office productivity integration
 
-6.	# of logins
+6.	No of logins
 
-7.	# of add on custom apps
+7.	No of add on custom apps
 
-8.	# of API calls
+8.	No of API calls
 
 9.	Internal network vs external network
 
-10.	# of page views; External user unauthenticated
+10.	No of page views; External user unauthenticated
 
 11.	On-premise vs software as a service
 
@@ -64,25 +64,25 @@ Service operations between multiple user types as per below. Reporting volume is
 
 Cost is determined based on following factors:
 
-1.	# of tenancy
+1.	No of tenancy
 
-2.	# of licences (base)
+2.	No of licences (base)
 
-3.	# of licences (attached)
+3.	No of licences (attached)
 
 4.	Data/tenancy
 
 5.	Office productivity integration
 
-6.	# of logins
+6.	No of logins
 
-7.	# of add on custom apps
+7.	No of add on custom apps
 
-8.	# of API calls
+8.	No of API calls
 
 9.	Internal network vs external network
 
-10.	# of page views; External user unauthenticated
+10.	No of page views; External user unauthenticated
 
 11.	On-premise vs software as a service
 
@@ -106,25 +106,25 @@ Complex service operations spanning multiple groups and service offering. Requir
 
 Cost is determined based on following factors:
 
-1.	# of tenancy
+1.	No of tenancy
 
-2.	# of licences (base)
+2.	No of licences (base)
 
-3.	# of licences (attached)
+3.	No of licences (attached)
 
 4.	Data/tenancy
 
 5.	Office productivity integration
 
-6.	# of logins
+6.	No of logins
 
-7.	# of add on custom apps
+7.	No of add on custom apps
 
-8.	# of API calls
+8.	No of API calls
 
 9.	Internal network vs external network
 
-10.	# of page views; External user unauthenticated
+10.	No of page views; External user unauthenticated
 
 11.	On-premise vs software as a service
 
