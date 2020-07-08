@@ -67,7 +67,7 @@ The RFQ is open for 5 years leading to four successful applicants:
 • Successful Screening 
 • No Contract, PIA, or STRA
 
-(CRM Procurement Guidelines)[CRM-ProcurementCriteria.md]
+(CRM Procurement Guidelines)[CRM-ProcurementCriteria]
 
 
 ## References:
