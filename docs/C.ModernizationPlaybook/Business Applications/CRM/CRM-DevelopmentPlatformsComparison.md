@@ -24,7 +24,6 @@ Salesforce offers the multiple platforms to customize your salesforce CRM soluti
 
 The Lightning Platform help developers create and deploy secure and scalable cloud solutions without having to provision the underlying hardware or application stack.
 
-<br />
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 24.83%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="298px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5f0ca2ad77697d0dbbd0e449" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
