@@ -16,23 +16,24 @@ Reactive systems follow a publisher-subscriber model , where the event producer 
 
 For example, in the above diagram, if we are talking about a hotel booking system for a given popular hotel in the peak of summer:
 
-Event A is to cancel a booking
-Event B is to query if there is an availability
-Event C is to book a new room
+- **Event A** is to cancel a booking
+- **Event B** is to query if there is an availability
+- **Event C** is to book a new room
 
-Event Consumer 1 is the hotel database
-Event Consumer 2 is the booking and payment system
-Event Consumer 3 is customer service
+<br />
+- *Event Consumer 1* is the hotel database
+- *Event Consumer 2* is the booking and payment system
+- *Event Consumer 3* is customer service
 
 Then,
 
   The event router would ingest, filter and route requests in the following way:
 
-  Event Consumer 1 would recieve the cancellation event first (A), new booking next (B) and the query (C) third in order. All three events require access to the database, so Event Consumer 1 will be triggered by all events.
+  *Event Consumer 1* would recieve the cancellation event first (**A**), new booking next (**C**) and the query (**B**) third in order. All three events require access to the database, so Event Consumer 1 will be triggered by all events.
 
-  Event Consumer 2 would recieve the new order first (A) and then the cancellation. Note that this consumer will not be triggered by event C, since the booking and payment service need not be called when the user is just querying for availability. 
+  *Event Consumer 2* would recieve the new order first (**C**) and then the cancellation(**A**). Note that this consumer will not be triggered by **event B**, since the booking and payment service need not be called when the user is just querying for availability. 
 
-  Event Consumer 3, that is the customer service will be triggered to answer to the query and then respond to the new order.
+  *Event Consumer 3*, that is the customer service will be triggered to answer to the query(**B**) and then respond to the new order(**C**).
 
 ## Stream Processing Systems
 
