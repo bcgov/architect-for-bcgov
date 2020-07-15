@@ -9,7 +9,7 @@ nav_order: 2
 # Other CRM Platforms
 
 ## Opensource CRM
- 
+ <br />
  Propreitary CRM solutions are finalized products which mostly require a subscription. If you rather customize and modify the CRM solution to suit your needs, it is best to choose an free and open souce CRM solution.
 
  Several OpenSource solutions are available in the market too. Though there are a few opensource CRM solutions that are available as SaaS, most of these solutions are available to be consumed in the form of source code and would require a team of developers to implement the solution on on-prem or cloud infrastructure and maintain the same.
@@ -17,25 +17,11 @@ nav_order: 2
  Some of the opensource CRM solutions are given below:
 
 ### HubSpot CRM
+<br />
+HubSpot CRM<sup> *1* </sup> was started in 2004 and provides tools that can be used by small to large enterprises. HubSpot CRM provides free marketing, sales, customer service, and contact management tools.
 
-HubSpot CRM was started in 2004 and provides tools that can be used by small to large enterprises. HubSpot CRM provides free marketing, sales, customer service, and contact management tools.
 
-##### Features
-
-    ✓ Contact management                 ✓ Ad management
-    ✓ Contact website activity           ✓ Conversations inbox
-    ✓ Companies                          ✓ Reporting dashboard
-    ✓ Deals                              ✓ Email tracking & notifications
-    ✓ Tasks & activities                 ✓ Email templates
-    ✓ Company insights                   ✓ Canned snippets
-    ✓ Gmail and Outlook integration      ✓ Canned snippets
-    ✓ App Marketplace integrations       ✓ Documents
-    ✓ Custom support form fields         ✓ Calling
-    ✓ Prospects                          ✓ Meeting scheduling
-    ✓ Ticketing                          ✓ Messenger integration
-    ✓ Forms                              ✓ Custom properties
-
-##### Pros
+##### Pros <sup> *2* </sup>
 
     ✓ Unlimited number of users                        
     ✓ Free and OpenSource                            
@@ -47,27 +33,11 @@ HubSpot CRM was started in 2004 and provides tools that can be used by small to 
       records
 
 ### SuiteCRM
+<br />
+SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PHP. SuiteCRM can be downloaded for free and installed on any physical server or on cloud. SuiteCRM also offers a hosted CRM option called Suite:OnDemand which however comes with a price.
 
-SuiteCRM is a free and open source CRM application written in PHP. SuiteCRM can be downloaded for free and installed on any physical server or on cloud. SuiteCRM also offers a hosted CRM option called Suite:OnDemand which however comes with a price.
-
-##### Features
-
-    ✓ Accounts management          ✓ Events management            ✓ Quotes module
-    ✓ Bug tacking                  ✓ Invoices module              ✓ Reports module   
-    ✓ Calendar management          ✓ Knowledge Base module        ✓ Targets module   
-    ✓ Calls module                 ✓ Leads module                 ✓ Target Lists module
-    ✓ Campaigns module             ✓ Meetings module              ✓ Tasks module
-    ✓ Cases module                 ✓ Notes module                 ✓ Workflow module
-    ✓ Contacts module              ✓ Opportunities module         ✓ Responsive layout feature
-    ✓ Contracts management         ✓ PDF Templates module         ✓ Languages feature
-    ✓ Documents repository         ✓ Products catalogue           ✓ Customizable frontpage feature
-    ✓ Emails module                ✓ Projects module              ✓ Role Management feature 
-    ✓ Customizable menu feature    ✓ User Management feature      ✓ Advanced Search feature       
-    ✓ Developer Tools feature      ✓ Password Management feature  ✓ Desktop Notifications feature 
-    ✓ Rest API feature             ✓ System settings feature      
-    ✓ Security Suite Group Management feature
     
-##### Pros
+##### Pros <sup> *4* </sup>
 
     ✓ Unlimited number of users        ✓ Endless modular customizability
     ✓ Real Time dashboard              ✓ Cross Platform
@@ -80,6 +50,7 @@ SuiteCRM is a free and open source CRM application written in PHP. SuiteCRM can 
 
 
 ## Serverless Options
+<br />
 
  Deploying a CRM solution on Cloud as opposed to hosting one on prem has the following benefits:
 
@@ -94,3 +65,14 @@ SuiteCRM is a free and open source CRM application written in PHP. SuiteCRM can 
   For example, Approvals and Consents on Applications might not happen very frequently. It would be best to trigger these operations as serverless functions when these events are triggered. 
 
   ![serverless](assets/images/example-serverless.png)
+
+## References: 
+
+\[*1*\]: [*Features of HubSpot CRM?*](https://www.hubspot.com/pricing/crm) 
+
+\[*2*\]: [*Pros and Cons of HubSpot CRM*](https://www.newbreedmarketing.com/blog/infographic-pros-and-cons-of-the-hubspot-crm) 
+
+\[*3*\]: [*Features of SuiteCRM*](https://suitecrm.com/features/) 
+
+\[*4*\]: [*Pros and Cons of SuiteCRM*](https://crm.org/crmland/open-source-crm) 
+
