@@ -18,19 +18,22 @@ nav_order: 1
 
 4. **Oracle Fusion**<sup> *4* </sup>: Oracle Fusion is a cloud-based PaaS solution which enables enterprises to create and run agile, intelligent business applications while maximizing IT efficiency through full utilization of modern hardware and software architectures.
 
+
 When a CRM solution has to be implemented, it is important to explore the various options available in the market before you decide to build a custom solution. Some of the popular CRM solutions include Salesforce, Microsoft Dynamics, ServiceNow, Oracle Fusion etc.
 
 Out-of-the-box Microsoft Dynamics could be classified as a CRM system, as could SalesForce.  However, given the risk and associated cost, of building dependencies upon a platform such as (SalesForce) force.com or upon Dynamics (the PaaS), for this exercise, we must differentiate between them.  
 
 ## CRM Adoption
+
 <br />
+
 The table given below highlights the key differences between the top 4 CRM platforms chosen by BC Government, based on the analysis performed by various ministries:
 
 ![](assets/images/Qualified-CRM.png)
 
-
 ## Preferred Direction
 <br />
+
 The preferred direction to distinguish between various CRM options is :
 
 - Distinguish CRM from the platforms upon which they’re built
@@ -41,6 +44,7 @@ The preferred direction to distinguish between various CRM options is :
 
 ## CRM Procurement in BC Gov
 <br />
+
 In 2018 the Province of BC submitted a Request of Qualification (RFQ 060518 CUSTOMER RELATIONSHIP MANAGEMENT (“CRM”) PLATFORM) to build a pre-qualified list of vendors for cloud CRM platform vendors that are able to seamlessly manage the diverse set of government-to-citizen, or government-to-organization, interactions that comprise the “citizen lifecycle” leveraging multi-channel delivery to support integrated service delivery, both internal and external to government.
 
 Applicants are screened by the Province on technical, security, and privacy requirements outlined in RFQ Questionnaire. The RFQ does not include implementation or other related professional services or subscription resellers.
@@ -66,6 +70,7 @@ The RFQ is open for 5 years leading to four successful applicants:
 
 • Successful Screening 
 • No Contract, PIA, or STRA
+
 
 (CRM Procurement Guidelines)[CRM-ProcurementCriteria]
 

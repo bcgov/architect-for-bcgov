@@ -51,6 +51,7 @@ SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PH
 
 ## Serverless Options
 <br />
+
  Deploying a CRM solution on Cloud as opposed to hosting one on prem has the following benefits:
 
   1. There would be no underlying hardware or infrastructure or maintain
@@ -74,3 +75,4 @@ SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PH
 \[*3*\]: [*Features of SuiteCRM*](https://suitecrm.com/features/) 
 
 \[*4*\]: [*Pros and Cons of SuiteCRM*](https://crm.org/crmland/open-source-crm) 
+
