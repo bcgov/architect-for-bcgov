@@ -2,7 +2,7 @@
 layout: default
 parent: Business Applications
 title: Learning Management System
-nav_order: 9
+nav_order: 10
 ---
 # Learning Management System
 
