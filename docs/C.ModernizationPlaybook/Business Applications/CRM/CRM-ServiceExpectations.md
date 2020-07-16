@@ -42,4 +42,4 @@ Collaboration on :
     common component definitions
     development, documentation of technology best practices through direct experience with technology solutions
 
-    There is at time of writing, a Dynamics community of practice, chaired out of CITZ IMB.  In the Education sector, there are Dynamics applications hosted in-house.
+There is at time of writing, a Dynamics community of practice, chaired out of CITZ IMB.  In the Education sector, there are Dynamics applications hosted in-house.
