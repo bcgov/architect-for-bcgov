@@ -1,11 +1,4 @@
----
-layout: default
-grand_parent: Business Applications
-parent: Customer Relationship Management
-title: Service Expectations
-nav_order: 6
----
-
+@@ -9,7 +9,39 @@ nav_order: 6
 # Service Expectations
 
 ## Ministry responsibilities​
@@ -24,7 +17,6 @@ Engage with the Digital Investment Office
 Secure funding
 
 ## OCIO responsibilities​
-
 Negotiate Government vendor licensing agreements
 Facilitate licenses acquisition (zero-wait with prior funding and EAU/OCIO approvals)
 Understanding the business of Government in BC, 
