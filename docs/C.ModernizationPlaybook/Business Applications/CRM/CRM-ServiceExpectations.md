@@ -1,4 +1,10 @@
-@@ -9,7 +9,39 @@ nav_order: 6
+---
+layout: default
+grand_parent: Business Applications
+parent: Customer Relationship Management
+title: Service Expectations
+nav_order: 7
+---
 # Service Expectations
 
 ## Ministry responsibilities​
