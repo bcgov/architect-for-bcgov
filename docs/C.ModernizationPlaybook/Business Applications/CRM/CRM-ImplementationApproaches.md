@@ -19,7 +19,7 @@ The ideal CRM platform is:
 * **Future Proof**: If you're thinking about getting a CRM, you are also obviously planning to grow your business. This is why you should make sure that whichever CRM you choose is easily adaptable to your future needs. A good CRM doesn't just fit your company's current needs, but also has the potential to grow with you: it should include multiple modules, features and possibilites for integration.
 * **Reportable**: A good CRM should let you analyze customer & employee activites and use the information for the benefit of your company. This is why the CRM you choose should have reporting and tracking features.
 
-## Types of CRM Implementations
+## Implementation Options
 
 ### On Prem
  
