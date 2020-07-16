@@ -7,6 +7,16 @@ nav_order: 7
 ---
 # Service Expectations
 
+While Service Level Agreements (SLAs) may exist between the Government of British Columbia and service providers who ensure underlying infrastructure continues to meet expectations, generally no formal service level agreements have been established for solution platforms, or software procured through the OCIO.  Now there may be an opportunity to determine roles, responsibilities, and expectations of both the OCIO and consuming ministry business organizations associated with the procurement, licensing, implementation, customizaion, deployment, maintenance, and support of largely off-the-shelf software and software-as-a-service.  With respect to CRM, and the current four qualified suppliers, this section seeks to pose (if not currently answer) questions like: 
+- Who deals with vendors?
+- who negotiates agreements?  Will there be more than one, or more than one type, of agreement?
+- How do I get licenses to use product x?  How quickly can I get them?
+- What kind of approvals are required prior to procuring my licenses?
+- who performs those approvals, and what prequalification process must I accomplish?
+- Is there someone who can help me determine an approach to my CRM problem?
+- How do I know that my business opportunity can be addressed with CRM?
+- I am having challenges with integrations to other systems - who do I call?
+- 
 ## Ministry responsibilities​
 Ensure that a CRM solution is appropriate for the problem
 <br />
@@ -42,25 +52,27 @@ Negotiate Government vendor licensing agreements
 <br />
 Facilitate licenses acquisition 
 <br />
-Understanding the business of Government in BC, 
+Understanding the business of Government in BC 
 <br />
-Raising awareness of common problems and their solutions in the BC Gov enterprise
+Raising awareness of common problems and their solutions in the BC Government enterprise
 <br />
 Ensure that existing good work across Government is considered, if not leveraged, widely
 <br />
 Optimize opportunities for reuse - opportunities include business process, information and data use, technology optimization, and applications and the services they enable
 <br />
-Facilitating collaboration on technology spikes for common technical services and components 
+Facilitating collaboration on technology spikes 
 <br />
-Sourcing support expertise to address technology unknowns and challenges 
+Facilitating collaborative work on common services
 <br />
-Ensuring availability of varied and appropriate infrastructure services that address a spectrum of ministry needs  
+Sourcing support expertise to address technology challenges, unknowns and experiments
 <br />
-Advise on vendor selection, technology selection<br />
+Ensuring availability of varied and appropriate infrastructure services that address a spectrum of ministry needs 
+<br />
+Advise on vendor and technology selection, and on solution approaches<br />
 
 
 ## Communities of Practice​
-Collaboration on :
+Collaboration on :<br />
     - approaches to business problems
     - shared implementations of common business capabilities
     - common component definitions
