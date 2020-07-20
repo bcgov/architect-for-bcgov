@@ -2,7 +2,7 @@
 layout: default
 parent: Business Applications
 title: Human Resources
-nav_order: 4
+nav_order: 5
 ---
 
 # Human Resources

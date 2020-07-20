@@ -3,7 +3,7 @@ layout: default
 title: Case Management
 grand_parent: C. Modernization Playbook
 parent: Business Applications
-nav_order: 2
+nav_order: 3
 ---
 # Case Management
 Archetype: Case Management
