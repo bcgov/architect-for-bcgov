@@ -34,6 +34,7 @@ The ideal CRM platform is:
 * **Useable**: Even the best CRM system is useless if your employees don't know how to use it. When deciding between CRM solutions make sure that the one you pick is easy to use, has an intuitive interface, ample documentation and good user support. The time spent training your employees to use your CRM should be as short as possible - after all, the whole point of having a CRM is increasing efficiency, rather than wasting time.
 * **Future Proof**: If you're thinking about getting a CRM, you are also obviously planning to grow your business. This is why you should make sure that whichever CRM you choose is easily adaptable to your future needs. A good CRM doesn't just fit your company's current needs, but also has the potential to grow with you: it should include multiple modules, features and possibilites for integration.
 * **Reportable**: A good CRM should let you analyze customer & employee activites and use the information for the benefit of your company. This is why the CRM you choose should have reporting and tracking features.
+
 ## Selecting the Team​
 ![Selecting the team](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1136354448%2F960x0.jpg%3Ffit%3Dscale)
 Which teams do you anticipate providing input/support in the development and management of the CRM? You want a team that not only checks all of the competencies boxes but also works well together and is synergistic in their work orchestration efforts. Team agility is the holy grail of team competencies, being able to shift directions at a moments notice without faltering. Pull together a group of  people to work on any project, and they will develop a culture of their own, and it will be as unique as the people in the group.
@@ -49,3 +50,4 @@ The ideal team is:
 * [21 Methods to Engage and Retain Your Product Owner in an Agile Project](https://pmworldlibrary.net/wp-content/uploads/2013/01/PMWJ4-Nov2012-VANDERJACK-21-MethodsToEngageProductOwner-AdvisoryArticle.pdf)
 * [Agile Development: What is a Product Owner? Roles and Responsibilities?](https://medium.com/swlh/agile-development-what-is-a-product-owner-roles-and-responsibilities-4aa2d2d8c7dd)
 * [Top CRM Features and Functionality List](https://www.selecthub.com/customer-relationship-management/crm-features-functionality-list/)
+
