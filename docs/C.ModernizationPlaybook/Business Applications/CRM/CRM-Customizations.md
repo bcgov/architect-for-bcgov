@@ -20,6 +20,33 @@ nav_order: 7
 
   ![](assets/images/customizations.png)
 
+## Customizations : Dynamics 365 vs Salesforce
+
+#### Customizing the Core Product
+
+**Dynamics 365** can be easily customized for individual needs of customers without the need to rely on third party applications.
+
+Customing the core product in **Saleforce** is limited and way harder.
+
+#### Supported Languages 
+
+**Microsoft Dynamics** supports universal programming languages like Javascript, .NET , Silver Light, and HTML. The Dynamics API also supports a wide variety of methods and functions to integrate with other systems. 
+
+**Salesforce** can only be extended using its own proprietary language called Apex. 
+
+#### From the Developer perspective
+
+**Dynamics 365** allows organizations to personalize, change, and extend the system. Almost every field, dashboard, entity, report, and other aspects of the user interface can be modified at the user level. 
+There are also several apps available to extend the functionality of the system. These apps enable users to customize the required objects with little to no coding, in addition to allowing heavily customized apps.
+
+**Salesforce**, offers limited customization options.Salesforce is built on a multi-client cloud environment. Therefore,resources are shared across different organizations, leading to poor performance in comparison with Dynamics.  Your developers can create extra workloads to overcome these limitations which could be cost ineffective and time consuming.
+
+
+#### From the Administrator perspective
+
+**Dynamics** administrators can manipulate business process workflows to accomodate specific requirements.
+
+
 ## Customizing Microsoft Dynamics 365
 
 ### User Stories
@@ -28,9 +55,9 @@ nav_order: 7
 
 - Application from Ministry of Education 
 - Hosted on Dynamics 365 on Azure managed by OCIO
-- Not many custom objects were added to the App
+- Not many custom objects have been added to the Application
 - Most of the enhancements done were around adding extra security fields, adding security profiles to prevent fields being visible to external vendors as well as hiding implementations details
-- A non managed CRM solution being used in most cases in BC Gov. Managed CRM solutions are handy when you are a consulting firm and want to package a CRM solution and sell it to a customer ensuring that they can not make any changes to the source. The major drawback of a managed solution is that, if there is a need to rollback, it results in deleting the data.
+- A non managed CRM solution is being used mostly in BC Gov. Managed CRM solutions are handy when you are a consulting firm, want to package a CRM solution and sell it to a customer ensuring that they cannot make any changes to the source. The major drawback of a managed solution is that, if there is a need to rollback, it results in data removal.
 - There are four environments on which the App is hosted in Dynamics on Azure (Dev, Test, UAT and Prod).
 - 95% of the changes were made without making code changes.
 - Whenever there is a need to make a change, a blank solution is created, the solution is developed on the Dev environment and the changes are added to the blank solution. The blank solution is downloaded in form of xml files and uploaded to a source control, in this case, SVN. This solution is then released and migrated to UAT and Prod environments using the Dynamics Solution Migration where typically a container is created and changes are deployed to Production.
