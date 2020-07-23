@@ -29,7 +29,7 @@ Out-of-the-box Microsoft Dynamics could be classified as a CRM system, as could 
 
 The table given below highlights the key differences between the top 4 CRM platforms chosen by BC Government, based on the analysis performed by various ministries:
 
-![](assets/images/Qualified-CRM.png)
+<img align="center" src="assets/images/Qualified-CRM.png" width="720" height="720"/>
 
 ## Preferred Direction
 <br />
