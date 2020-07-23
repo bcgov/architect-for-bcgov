@@ -3,7 +3,7 @@ layout: default
 grand_parent: Business Applications
 parent: Customer Relationship Management
 title: Qualified CRM Platforms
-nav_order: 1
+nav_order: 2
 ---
 
 # Qualified CRM Platforms
