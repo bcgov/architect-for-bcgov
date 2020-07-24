@@ -71,6 +71,14 @@ When there is need to add additional functionality, there are three core program
  3. **Visualforce**: A markup language that lets you create custom Salesforce pages with code that looks a lot like HTML, and optionally can use a powerful combination of Apex and JavaScript.
 
 
+ ### Tests and Deployments in Salesforce
+
+
+
+## Customizing the Microsoft Dynamics Platform
+
+  ### Tests and Deployments in Dynamics
+
 ## Customizations : Dynamics 365 vs Salesforce
 
 ### Customizing the Core Product
@@ -101,8 +109,6 @@ There are also several apps available to extend the functionality of the system.
 ### Learning Resources
 <br />
 There's plenty of ways to learn the platform via Microsoft Learning. The vendor's instructional materials include videos, as well as eLearning and in-person courses leading to role-based certifications. You can also download older Microsoft Dynamics 365 eLearning courses for self-study on the Dynamics Learning Portal.
-
-
 
 
 ## Customizing Microsoft Dynamics 365
