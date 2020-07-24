@@ -9,7 +9,7 @@ nav_order: 4
 # Implementation Approaches
 
 ## Selecting the Platform​
-![Selecting the Platform](https://www.kothes.com/fileadmin/_processed_/3/5/csm_Fotolia_128376149_M_5second_8d71485b1e.jpg)© 5second / Fotolia
+![Selecting the Platform](https://www.kothes.com/fileadmin/_processed_/3/5/csm_Fotolia_128376149_M_5second_8d71485b1e.jpg)© 5second / Fotolia</br>
 A CRM is supposed to streamline business processes, particularly in the way of sales and marketing. With that in mind, you need to identify your business bottlenecks before you begin your hunt for a CRM. Start by “evaluating your existing business processes and their outcomes, then compare them to their desired outcomes and business objectives to determine the gap." Create a "wish list" of goals that you want in a CRM. Determine which items are high priority and which are "nice-to-haves," then refer to that list when comparing potential solutions to determine which features and which product will help you best accomplish your goals. 
 Rarely is there a one-size-fits-all solution; be expected to accept compromises when it comes to looking for a CRM platform that doesn't check all  of your boxes.
 The ideal CRM platform is:
