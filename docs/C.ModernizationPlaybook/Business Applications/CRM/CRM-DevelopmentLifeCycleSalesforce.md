@@ -134,13 +134,14 @@ To adopt the DevOps principles of Continuous Integration and Continuous Delivery
   * Commit and Push your branch
   * Create a Pull Request
 
-**Build Code**:-->
+**Build Code**:
 
   * Create a new branch from master branch (Master Branch  = Production Code)
   * Use VS Code editor with Salesforce Extensions to create new code
   * Spin up a stratch org to test your changes locally
   * Commit and Push your branch
   * Create a Pull Request
+-->
 
 Also Read:
 <br />
