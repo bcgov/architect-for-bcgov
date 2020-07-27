@@ -24,14 +24,17 @@ nav_order: 7
 
  2. **Make configurations**: More often than not, as you business grows, so does your CRM. You will find to tweak your objects such as increasing the size of your fields. This can be achieved by making configuration changes to objects.
 
- 3. **Creating New Objects**: Configuration changes do not permit you to add new objects such as new fields, new menu options or new screens. In these circumstances you will need to create new objects, but this can be done without writing code and by using in built designer tools. 
+ 3. **Make Customizations without Code**: Configuration changes do not permit you to add new objects such as new fields, new menu options or new screens. In these circumstances you will need to create new objects, but this can be done without writing code and by using in built designer tools. 
 
- 4. **Developing new scripts**: In most of the cases, customizations will not require you to write code. However more complex scenarios such as integrations with 3rd party application will require you to write code to make changes to the way the CRM solution works. This is least recommended scenario.
+ 4. **Developing new code**: In most of the cases, customizations will not require you to write code. However more complex scenarios such as integrations with 3rd party application will require you to write code to make changes to the way the CRM solution works. This is least recommended scenario.
 
+![](assets/images/customizations.png)
 
 
 Also Read:
 <br />
-[Development Life Cycle in Salesforce](CRM-DevelopmentLifeCycleSalesforce.md)
+[Customizations: Dynamics vs Salesforce](CRM-CustomizationsDynamicsvsSalesforce.html)
 <br />
-[Development Life Cycle in MicrosoftDynamics](CRM-DevelopmentLifeCycleDynamics.md)
+[Development Life Cycle in Salesforce](CRM-DevelopmentLifeCycleSalesforce.html)
+<br />
+[Development Life Cycle in Microsoft Dynamics](CRM-DevelopmentLifeCycleDynamics.html)

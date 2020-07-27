@@ -19,6 +19,7 @@ nav_order: 8
 
 ### Customizing the Core Product
 <br />
+
 **Dynamics 365** can be easily customized for individual needs of customers without the need to rely on third party applications.
 
 Customing the core product in **Saleforce** is limited and way harder.
@@ -31,24 +32,27 @@ Customing the core product in **Saleforce** is limited and way harder.
 
 ### From the Developer perspective
 <br />
+
 **Dynamics 365** allows organizations to personalize, change, and extend the system. Almost every field, dashboard, entity, report, and other aspects of the user interface can be modified at the user level. 
 There are also several apps available to extend the functionality of the system. These apps enable users to customize the required objects with little to no coding, in addition to allowing heavily customized apps.
 
 **Salesforce**, offers limited customization options.Salesforce is built on a multi-client cloud environment. Therefore,resources are shared across different organizations, leading to poor performance in comparison with Dynamics.  Your developers can create extra workloads to overcome these limitations which could be cost ineffective and time consuming.
 
 
-### From the Administrator perspective
-<br />
-**Dynamics** administrators can manipulate business process workflows to accomodate specific requirements.
-
 
 ### Learning Resources
 <br />
-There's plenty of ways to learn the platform via Microsoft Learning. The vendor's instructional materials include videos, as well as eLearning and in-person courses leading to role-based certifications. You can also download older Microsoft Dynamics 365 eLearning courses for self-study on the Dynamics Learning Portal.
+
+There's plenty of ways to learn the **Microsoft Dynamics** platform via Microsoft Learning. The vendor's instructional materials include videos, as well as eLearning and in-person courses leading to role-based certifications. You can also download older Microsoft Dynamics 365 eLearning courses for self-study on the Dynamics Learning Portal.
+
+TrailHead is the go-to forum for learning **Salesforce**. They offer separate trails for developers, administrators and architects. It is free of cost to navigate through the trails and use their playground for learning new things. The trailhead community is also a source of knowledge for solutions to common challenges faced, etc.
+
 
 
 
 
 Also Read:
-(Development Life Cycle in Salesforce)[CRM-DevelopmentLifeCycleSalesforce.md]
-(Development Life Cycle in MicrosoftDynamics)[CRM-DevelopmentLifeCycleDynamics.md]
+<br />
+[Development Life Cycle in Salesforce](CRM-DevelopmentLifeCycleSalesforce.html)
+<br />
+[Development Life Cycle in Microsoft Dynamics](CRM-DevelopmentLifeCycleDynamics.html)
