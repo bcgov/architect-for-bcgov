@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: C. Modernization Playbook
+grand_parent: Business Applications
 parent: Registries
 title: Patterns and Anti-Patterns
 nav_order: 2

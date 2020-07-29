@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: C. Modernization Playbook
+grand_parent: Business Appications
 parent: Registries
 title: A Common Understanding
 nav_order: 1
