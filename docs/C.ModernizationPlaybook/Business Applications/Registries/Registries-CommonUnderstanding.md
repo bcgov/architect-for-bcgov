@@ -57,4 +57,4 @@ The B.C. Government work on Data Registers has borrowed from the excellent work 
 - history is maintained for each record
 - a record can never be lost or removed - history is maintained
 - each has a named owner
-- the existence 
+- the existence of a register can be linked to a driver based in law, policy, or ministry mandate
