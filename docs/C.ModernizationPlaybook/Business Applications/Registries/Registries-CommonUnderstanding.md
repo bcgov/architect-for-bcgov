@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: Business Appications
+grand_parent: Business Applications
 parent: Registries
 title: A Common Understanding
 nav_order: 1
