@@ -5,7 +5,7 @@ parent: Business Applications
 title: Registries
 has_children: true
 has_toc: true
-nav_order: 1
+nav_order: 3
 ---
 
 # Registries
