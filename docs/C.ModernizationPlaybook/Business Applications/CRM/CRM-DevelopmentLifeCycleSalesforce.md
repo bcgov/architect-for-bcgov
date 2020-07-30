@@ -22,7 +22,7 @@ Building a new functionality could refer to:
   - customizing existing Salesforce offerings
   - building an app from scratch
 
-The **salesforce core platform** lets you develop custom data models and applications for desktop and mobile.
+The **Salesforce core platform** lets you develop custom data models and applications for desktop and mobile.
 
 **Heroku** empowers developers  to build highly scalable web apps and back-end services using Python, Ruby, Go. It also provides database tools to sync seamlessly with data from Salesforce.
 
@@ -110,7 +110,9 @@ Changesets can be created for deploying workflows, rules, Apex classes and trigg
 This is the most commonly used and recommended approach by Salesforce to migrate changes between your orgs.
 In this method, after development, you create an outbound changeset that consists of all the changes you want to make. In order to recieve an outbound changeset, a deployment connection needs to be setup between the corresponding orgs and they should be authorized to recieve the changeset inbound towards them. The connection and authorization is set up as shown in the figure below:
 
-![](assets/images/DevSalesforce.png)
+| ![](assets/images/DevSalesforce.png) | 
+|:--:| 
+| *Figure Source: [Salesforce Help](https://help.salesforce.com/articleView?id=changesets_about_connection.htm&type=5)* |
 
 This would imply the production org should only receive changes that have been fully tested and only the test org is authorized to upload change sets to production. To synchronize development projects with the production org, the prod org can send change sets to the test org, and to maintain the release cycle, prod org cannot send changesets to the test org. Since the features in development need iterative testing, Dev and Test orgs should be able to upload change sets to each other
 
@@ -124,7 +126,6 @@ Though changesets are the recommended approach to develop and migrate changes, i
 
 To adopt the DevOps principles of Continuous Integration and Continuous Delivery using a version control system such as git, bitbucket etc and a release orchestration tool such Jenkins, CircleCI, GitLab CI etc, the Salesforce Developer Experience(SFDX) can be used.
 
-![](assets/images/CICDSalesforce.png)
 
 <!--- **Develop Code**: 
 
@@ -167,3 +168,5 @@ References:
 [Example Usecase by Schneider Electrics](https://www.salesforce.com/video/1777926/)
 
 [Automate Salesforce Projects with GitLab](https://trailhead.salesforce.com/content/learn/projects/automate-cicd-with-gitlab)
+
+[Salesforce Help](https://help.salesforce.com/articleView?id=changesets_inbound_deploy.htm&type=5)

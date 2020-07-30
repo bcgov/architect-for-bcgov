@@ -22,7 +22,7 @@ nav_order: 8
 
 **Dynamics 365** can be easily customized for individual needs of customers without the need to rely on third party applications.
 
-Customing the core product in **Saleforce** is limited and way harder.
+Customing the core product in **Salesforce** is limited and way harder.
 
 ### Supported Languages 
 <br />
