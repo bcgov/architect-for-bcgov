@@ -26,7 +26,7 @@ nav_order: 7
 
  3. **Make Customizations without Code**: Configuration changes do not permit you to add new objects such as new fields, new menu options or new screens. In these circumstances you will need to create new objects, but this can be done without writing code and by using in built designer tools. 
 
- 4. **Developing new code**: In most of the cases, customizations will not require you to write code. However more complex scenarios such as integrations with 3rd party application will require you to write code to make changes to the way the CRM solution works. This is least recommended scenario.
+ 4. **Developing new code**: In most of the cases, customizations will not require you to write code. However more complex scenarios such as integrations with 3rd party application will require you to write code to make changes to the way the CRM solution works. This is **least recommended** scenario.
 
 ![](assets/images/customizations.png)
 
