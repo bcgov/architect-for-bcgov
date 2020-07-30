@@ -12,7 +12,7 @@ nav_order: 1
 
 ## A Common Understanding
 
-<img align="center" src="assets/images/RegistriesConcept.png" width="720" height="720"/>
+<img align="center" src="assets/images/RegistriesConcept.png" width="720" height="325"/>
 With over 100 "registries" in the current application inventory, there appears to be a broad and varied concept of what is a registry.  At a fundamental level, a registry is where someone keeps track of things.  From the application inventory, it appears that "the thing" can be any of:
 - training courses, 
 - people and their contact information, 
@@ -31,18 +31,21 @@ With over 100 "registries" in the current application inventory, there appears t
 - and more.
 
 Efforts are underway in the OCIO to recognize a set of very import things that the B.C. Government keeps track of, and to treat those things in special ways.  Most of the items in the above list will fit into this set somewhere.  That set of very important things currently looks like this:
-- People
-- Businesses
-- Entitlements (currently under consideration, examples of this would be the permissions required to do something like fish a waterway, operate a business, or teach in the province)
-- Land Parcels
-- Land Titles (which arguably, could be a type of entitlement)
-- Place Names
-- Roads
-<img align="center" src="assets/images/Registries-7OfHighestOrder.png" width="720" height="720"/>
 
-These might be considered Master Data sets of the highest order.  There are other important data sets that we must treat in special ways, but these are considered the critical ones.  If we get information about any of these things wrong, then we're not doing good government, let alone digital government. 
+<img align="center" src="assets/images/Registries-7OfHighestOrder.png" width="720" height="325"/>
 
-The nature of a registry embodies qualities of authority, reliability, unquestionable integrity, consistency, and timeliness.  Each registry holds raw - not derived - data that is the unequivocal source.  And there is exactly one registry of record for each kind of data.  Where data in a registry must be duplicated, the registry of record remains the master.  Changes are always made to the master via a single procedure (an API, for example).  Those changes can then be propogated downstream.  With proper access to its data facilitated by the registry itself, it should be rare though, for a registry to require duplication.
+The Entitlements Registry is currently under consideration, and may be a generalisation of things like Land Titles.  We are working to refine the set of "high order" registries.  Other examples of entitlements might be: 
+- permission to fish in a waterway, 
+- a license to operate a particular type of business
+- a certificate that allows a person to teach in B.C.
+- perhaps, a Court Order
+- certification of an Emergency Medical Assistant
+- over-sized vehicle permits, with accompanying restrictions
+- permission to be prescribed restricted medications
+
+Together, these may be considered Master Data sets of the highest order.  There are other important data sets that we must treat in special ways, but these are considered the critical ones.  If we get information about any of these things wrong, then we're not doing good government, let alone digital government. 
+
+The nature of a registry embodies qualities of authority, reliability, unquestionable integrity, consistency, and timeliness.  Each registry holds raw - not derived - data that is the unequivocal source.  And there is exactly one registry of record for each kind of data.  Where data in a registry must be duplicated, the registry of record remains the master.  Changes are always made to the master via a consistent single procedure (an API, for example).  Those changes can then be propogated downstream.  With proper access to its data facilitated by the registry itself, it should be rare though, for a registry to require duplication.
 
 As an example, government needs to keep track of information about people.  There should be one place to go - the People Registry - to get or update information about people, about a person.  There should be only one place considered the Registry of Record, which holds the definitive, authoritative, current information about a person.  No other list, spreadsheet, database, or extract, can be considered definitive. So access to the Registry of Record must be made easy for all other systems that require information about people.  Other systems that refer to a person in the People Registry will use not a person's name, but a key, a pointer (that is not an existing personal identifier like a PHN or a PEN), which provides an abstraction, and thus a tiny further element of protection.
 
