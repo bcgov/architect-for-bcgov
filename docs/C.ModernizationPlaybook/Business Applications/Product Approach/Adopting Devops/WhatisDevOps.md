@@ -1,16 +1,16 @@
 ---
 layout: default
-grand_parent: Business Applications
-parent: Product Approach
-title: Adopting DevOps
-nav_order: 3
----
+grand_parent: Product Approach
+parent: Adopting DevOps
+title: What is DevOps?
+nav_order: 1
+--- 
 
-# Adopting DevOps
+# What is DevOps?
 
-## What is DevOps?
+## The Story Behind Devops
 
-Scenario : Your team consists of three developers working on writing new features and fixing bugs in your application. Some of the major challenges the developers might face are:
+Your team consists of three developers working on writing new features and fixing bugs in your application. Some of the major challenges the developers might face are:
 
  1. Time taken for a change to get to production: Owing to manual processes and reviews, a small change or bug fix, might take months to go to production.
  2. Environment Drift: There is a significant difference between the developers local environment and the test and production environments due to which there can be dependency errors and developers can be relieved only once their code is in production. 
@@ -38,21 +38,6 @@ By automating the application change and release process, the deployments no lon
 By automating infrastructure, moving to cloud and storing infrastructure as code, the developer can be provided with means to develop code on environments very close to production thereby solving environment drifts. 
 
 Addition of monitoring tools and constantly measuring the performance of the application can help to proactively find potential issues that could arise in future and help mitigate them beforehand.
-
-A typical process for making a new change would a shown below:
-
-!()[assets/images/pipeline.png]
-
-To note:
-
- - This is one of the few best practices followed
- - The CI pipeline and CI/CD pipeline are not 2 pipelines, it is not good practice to run 2 pipelines from a given repo. The CI pipeline in the same CI/CD pipeline which works differently when the Pull Request is made to a master branch and any other branch.
- - This flow follows a git flow, where the release branch is merged once the change is in production.
- - The pipeline can be run using any orchestrator like Jenkins or Circle CI or Gitlab CI etc.
- - It is considered good practice that the build and deploy should be done within the pipeline using a single commandline which would also work from the developers local machine.
- - Adding manual gates or approval stages in the pipeline would make it Continuous Delivery and a completely automated pipeline is Continuous Deployment. Continuous Delivery is a slow and steady path to move towards the Continuous Deployment Model.
-
- 
 
 
 References:
