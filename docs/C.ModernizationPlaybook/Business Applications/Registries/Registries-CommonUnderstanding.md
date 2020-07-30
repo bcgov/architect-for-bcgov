@@ -12,6 +12,7 @@ nav_order: 1
 
 ## A Common Understanding
 
+<img align="center" src="assets/images/RegistriesConcept.png" width="720" height="720"/>
 With over 100 "registries" in the current application inventory, there appears to be a broad and varied concept of what is a registry.  At a fundamental level, a registry is where someone keeps track of things.  From the application inventory, it appears that "the thing" can be any of:
 - training courses, 
 - people and their contact information, 
@@ -37,6 +38,7 @@ Efforts are underway in the OCIO to recognize a set of very import things that t
 - Land Titles (which arguably, could be a type of entitlement)
 - Place Names
 - Roads
+<img align="center" src="assets/images/Registries-7OfHighestOrder.png" width="720" height="720"/>
 
 These might be considered Master Data sets of the highest order.  There are other important data sets that we must treat in special ways, but these are considered the critical ones.  If we get information about any of these things wrong, then we're not doing good government, let alone digital government. 
 
