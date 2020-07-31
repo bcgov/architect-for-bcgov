@@ -26,5 +26,6 @@ Wikipedia defines "anti-pattern" as "a common response to a recurring problem th
 In accommodating storage of People information, we may find it easier or cheaper to build a new database for People storage than to designate an enterprise owner of People, and join forces with a single, "higher order" Registry. The following are examples of counterproductive (from an enterprise perspective) approaches to the problem at hand.
 
 - an HR application that maintains its own copy of employee name, and that information is provided from somehwere other than an acknowledged master People Registry.
-- Species databases that are based upon region.  This example shows that what might be a justified approach to a business problem can cause duplication and uncertainty - because a species likely does not restrict itself to a geogaphic regions.  We end up with duplication of a species across regional databases, and risk conficting data.
+- Species databases that are based upon region.  This example shows that what might be a justified approach to a business problem can cause duplication and uncertainty - because a species likely does not restrict itself to a geogaphic region.  We end up with duplication of a species across regional databases, and risk conficting data.
 - An application that allows users to type in the city in which they live.
+
