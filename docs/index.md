@@ -16,8 +16,6 @@ The Framework below is an alpha version ([https://developer.gov.bc.ca/Agile-Deli
 *	We are also very interested in hearing from business leads and technologists within government.  This Framework will guide government’s direction regarding strategic infrastructure development, as established by the Government CIO (authority is set out in Section 12.2.2 of the [Core Policy and Procedures Manual](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/im-it-management)).<br>
 *	This alpha Framework has been developed by a team within the Office of the Government CIO, in the Ministry of Citizen Services. Executive Director Mac Campbell is our Product Champion. You can contribute directly to this repository or email <CITZAS@gov.bc.ca>. 
 
-Please provide your feedback prior to Tuesday, June 16, 2020.
-
 ## Context
 
 The Government of British Columbia has made strong commitments to restoring public services and making opportunities available to everyone. In support of this commitment, public servants across government are working to deliver excellent digital services that are simple, modern and focused on user needs. 

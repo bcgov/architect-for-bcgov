@@ -8,13 +8,13 @@ nav_order: 3
 
 # Other CRM Platforms
 
-## Opensource CRM
- <br />
- Propreitary CRM solutions are finalized products which mostly require a subscription. If you rather customize and modify the CRM solution to suit your needs, it is best to choose an free and open souce CRM solution.
+## Open Source CRM
+ 
+ Proprietary CRM solutions are finalized products which mostly require a subscription. If you would rather customize and modify the CRM solution to suit your needs, it is best to choose a free and open source CRM solution.
 
- Several OpenSource solutions are available in the market too. Though there are a few opensource CRM solutions that are available as SaaS, most of these solutions are available to be consumed in the form of source code and would require a team of developers to implement the solution on on-prem or cloud infrastructure and maintain the same.
+ Several open source solutions are available in the market. Though there are a few open source CRM solutions that are available as SaaS, most of these solutions are available to be consumed in the form of source code and would require a team of developers to implement the solution using on-prem or cloud infrastructure and maintain the same.
 
- Some of the opensource CRM solutions are given below:
+ Some of the open source CRM solutions are given below:
 
 ### HubSpot CRM
 <br />
@@ -24,7 +24,7 @@ HubSpot CRM<sup> *1* </sup> was started in 2004 and provides tools that can be u
 ##### Pros <sup> *2* </sup>
 
     ✓ Unlimited number of users                        
-    ✓ Free and OpenSource                            
+    ✓ Free and open source                            
 
 ##### Cons
 
@@ -34,7 +34,7 @@ HubSpot CRM<sup> *1* </sup> was started in 2004 and provides tools that can be u
 
 ### SuiteCRM
 <br />
-SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PHP. SuiteCRM can be downloaded for free and installed on any physical server or on cloud. SuiteCRM also offers a hosted CRM option called Suite:OnDemand which however comes with a price.
+SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PHP. SuiteCRM can be downloaded for free and installed on any physical server or on cloud. SuiteCRM also offers a hosted CRM option called Suite:OnDemand as a subscription model.
 
     
 ##### Pros <sup> *4* </sup>
@@ -52,19 +52,19 @@ SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PH
 ## Serverless Options
 <br />
 
- Deploying a CRM solution on Cloud as opposed to hosting one on prem has the following benefits:
+ Deploying a CRM solution using Cloud as opposed to hosting on premise has the following benefits:
 
-  1. There would be no underlying hardware or infrastructure or maintain
-  2. Ensure high availability and resilience
-  3. There would be tighter integrations with other cloud products
-  4. It would be easier and faster to implement a CRM solution on cloud
+  1. There is no underlying hardware or infrastructure or maintain
+  2. Ensures high availability and resilience
+  3. There is tighter integrations with other cloud products
+  4. It is easier and faster to implement a CRM solution on cloud
   5. The CRM applications would be highly scalable on cloud
 
   In order to further reduce costs, you can make use of Functions as a Service (FaaS) to execute tasks which happen less frequently in order to save cloud resources. 
   
   For example, Approvals and Consents on Applications might not happen very frequently. It would be best to trigger these operations as serverless functions when these events are triggered. 
 
-  ![serverless](assets/images/example-serverless.png)
+  ![serverless](/assets/images/example-serverless.png)
 
 ## References: 
 
