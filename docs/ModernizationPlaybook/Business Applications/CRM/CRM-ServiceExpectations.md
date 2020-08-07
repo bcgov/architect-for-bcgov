@@ -3,7 +3,7 @@ layout: default
 grand_parent: Business Applications
 parent: Customer Relationship Management
 title: Service Expectations
-nav_order: 7
+nav_order: 5
 ---
 # Service Expectations
 
