@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C. Modernization Playbook 
+title: Modernization Playbook 
 nav_order: 2
 has_toc: false
 has_children: true
