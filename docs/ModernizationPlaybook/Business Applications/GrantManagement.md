@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Business Applications
-grand_parent: C. Modernization Playbook
+grand_parent: Modernization Playbook
 title: Grant Management
 nav_order: 7
 ---

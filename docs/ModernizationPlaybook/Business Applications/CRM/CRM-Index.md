@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: C. Modernization Playbook
+grand_parent: Modernization Playbook
 parent: Business Applications
 title: Customer Relationship Management
 has_children: true

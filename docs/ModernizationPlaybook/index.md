@@ -6,7 +6,7 @@ has_toc: false
 has_children: true
 ---
 
-# C. Modernization Playbook 
+# Modernization Playbook 
 
 ## Introduction – Digital Enterprise Architecture 
 

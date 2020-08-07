@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Call Centre
-grand_parent: C. Modernization Playbook
+grand_parent: Modernization Playbook
 parent: Business Applications
 nav_order: 8
 ---

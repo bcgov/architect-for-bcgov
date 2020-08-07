@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: C. Modernization Playbook
+grand_parent: Modernization Playbook
 parent: Business Applications
 title: Product Approach
 has_children: true
