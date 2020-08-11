@@ -3,7 +3,7 @@ layout: default
 grand_parent: Business Applications
 parent: Customer Relationship Management
 title: 'Customizations: Dynamics vs Salesforce'
-nav_order: 8
+nav_order: 9
 ---
 
 # Customizations: Dynamics vs Salesforce
