@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Domain Driven Design
-nav_order: 8
+parent: Modernization Playbook
+nav_order: 9
 has_children: true
 has_toc: false
 ---

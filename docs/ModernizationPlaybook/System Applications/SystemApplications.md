@@ -1,7 +1,8 @@
 ---
 layout: default
 title: System Applications
-nav_order: 4
+parent: Modernization Playbook
+nav_order: 2
 has_children: true
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Productivity Applications
-nav_order: 5
+parent: Modernization Playbook
+nav_order: 3
 has_children: true
 ---
 

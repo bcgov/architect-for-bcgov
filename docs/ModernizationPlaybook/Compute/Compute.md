@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Compute
-nav_order: 6
+parent: Modernization Playbook
+parent: Modernization Playbook
+nav_order: 5
 has_children: true
 ---
 
