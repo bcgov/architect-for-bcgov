@@ -2,7 +2,8 @@
 layout: default
 title: Event Driven Architectures
 parent: Domain Driven Design 
-nav_order: 3
+grand_parent: Modernization Playbook 
+nav_order: 4
 ---
 
 # Event Driven Architectures

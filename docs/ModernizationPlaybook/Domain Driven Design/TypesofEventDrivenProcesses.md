@@ -2,7 +2,8 @@
 layout: default
 title: Types of Event Driven Systems
 parent: Domain Driven Design 
-nav_order: 4
+grand_parent: Modernization Playbook 
+nav_order: 5
 ---
 
 # Types of Event Driven Systems

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Important Terminology
-parent: Domain Driven Design 
-nav_order: 2
+parent: Domain Driven Design
+grand_parent: Modernization Playbook 
+nav_order: 3
 ---
 
 
