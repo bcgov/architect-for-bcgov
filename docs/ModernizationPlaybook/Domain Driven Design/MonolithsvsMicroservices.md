@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Monoliths vs Microservices
-parent: Domain Driven Design 
+parent: Domain Driven Design
+grand_parent: Modernization Playbook  
 nav_order: 1
 ---
 
