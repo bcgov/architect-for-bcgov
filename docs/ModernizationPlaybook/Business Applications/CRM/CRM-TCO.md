@@ -66,21 +66,21 @@ nav_order: 5
 
 Office of the Chief Information Officer (OCIO) has negotiated contracts with Salesforce and Microsoft Dynamics 365 CRM for the following capabilities.
 
-•	Case Management
-•	Call-Centre Integration
-•	Stakeholder and Activity Management
-•	Correspondence and Information Request Management
-•	Opportunity Management
-•	Marketing and Campaign Management
-•	Client Account and Contract Management
-•	Entitlement Management
-•	Grant Management
-•	Licensing, Approvals, and Permitting Management
-•	Investigation, Field Inspection, and Compliance Management
-•	Event Planning and Tracking Management
-•	Business Intelligence and Analytics
-•	Business Logic, Workflows, Automation, and Tracking
-•	Native Mobility capabilities including Offline Application Access
+* Case Management
+* Call-Centre Integration
+* Stakeholder and Activity Management
+* Correspondence and Information Request Management
+* Opportunity Management
+* Marketing and Campaign Management
+* Client Account and Contract Management
+* Entitlement Management
+* Grant Management
+* Licensing, Approvals, and Permitting Management
+* Investigation, Field Inspection, and Compliance Management
+* Event Planning and Tracking Management
+* Business Intelligence and Analytics
+* Business Logic, Workflows, Automation, and Tracking
+* Native Mobility capabilities including Offline Application Access
 
 The following products are available through the vendor negotiated agreements:
 
