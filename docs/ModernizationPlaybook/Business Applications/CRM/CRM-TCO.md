@@ -5,204 +5,132 @@ parent: Customer Relationship Management
 title: Total Cost of Ownership
 nav_order: 5
 ---
-# Total Cost of Ownership
+# Total Cost Considerations
 
-Salesforce
-Provice of BC has negotiated price for the products below:
+Total Cost Considerations: 
 
-1.	Sales cloud: leads and marketing management and business development
-2.	Service cloud: case management, call centre integration, 
-3.	Lightning force
+The cost of deploying a CRM may start with base product licences, infrastructure (instances, environments, security, identity), various levels of support offered by the vendor and additional capabilities required (attached licences, analytics and reporting, external or custom app integration). There may be additional one time, recurring and/or development costs involved to fulfill the business or technical requirements for the successful completion of the project. 
+
+Depending on the product subscribed, be aware of the limits marked by the vendors (data storage and transfer, number of API calls, number of logins/page views).
+Factors to consider that may impact total cost of ownership:
+
+1.	Number of instances 
+2.	Number of environments (sandbox, prod, test, dev environments)
+3.	Number of licences (base)
+4.	Number of licences (attached) – attached licences enable additional CRM capabilities. For example, business area has a base licence for case management CRM, additionally attached licence adds capabilities for marketing CRM
+5.	Data/instance (volume cost - how much data is collected and stored)
+6.	External application integration (e.g. Office productivity integration)
+7.	Number of logins
+8.	Number of add on custom apps
+9.	Number of API calls
+10.	Internal network vs external network (Direct connect or VPN tunnels to government network)
+11.	Number of page views
+12.	External user authenticated or unauthenticated
+13.	On-premise vs software as a service
+14.	Advanced analytics/reporting + notifications
+
+These cost (per unit) and limits are usually identified in the contract. Vendors can provide one-time, ongoing or volume discount depending on the negotiated deal. Vendors usually have different pricing models for products they offer. For example, licences for MS Dynamics can be based on individual access over multiple devices or device access for multiple users. 
+
+The following table lists rack rates for base licence for case management and additional capabilities that may be required as part of the CRM deployment. The rates are quoted in US dollars.
+
+Capability	Salesforce 	Dynamics
+Case Management	Service Cloud Enterprise	$150/month/user	Customer Service Enterprise	$121.6/month/user
+Contact Centre	Telephony integration included	-	Virtual agent	$1408/month/tenant
+AI/ Data/ Analytics	Service Cloud Einstein	$50/month/user	Customer Service Insights	$96/month/user
+	Customer Lifecycle Analytics	$150/month/user	Customer Insights	$1920/month/tenant
+Surveys	Survey Response Pack	$300/1000 responses	Customer Voice	$128/2000 responses/month/tenant
+
+Based on the above rack rates, please find below a cost comparison table based on increasing number of users and capabilities. 
+Capabilities	Small	Cost	Medium	Cost	Large	Cost
+		SF	D365		SF	D365		SF	D365
+Base licences	10	$18000	$14,592	100	$180,000	$145,920	1000	$1,800,000	$1,459,200
+Contact centre	No	-	-	No	-	-	Yes	$0	$16,896
+Analytics pack	Yes	$18000
+(CLA)	$23,040
+(CI)	Yes	$18,000
+(CLA)	$23,040
+(CI)	Yes	$2,400,000
+(SCE+CLA)	$1,175,040
+(CSI+CI)
+Survey pack	No	-	-	Yes	$3000
+(10,000 responses)	$640
+(10,000 responses)	Yes	$15,000
+(50,000 responses)	$3,200
+(50,000 responses)
+Total		$36,000	$37,632		$201,000	$169,600		$4,215,000	$2,654,336
+
+CLA: Customer Lifecycle Analytics
+CI: Customer Insights
+SCE: Service Cloud Einstein
+CSI: Customer Service Insights
+
+Product Availability:
+
+Office of the Chief Information Officer (OCIO) has negotiated contracts with Salesforce and Microsoft Dynamics 365 CRM for the following capabilities.
+
+•	Case Management
+•	Call-Centre Integration
+•	Stakeholder and Activity Management
+•	Correspondence and Information Request Management
+•	Opportunity Management
+•	Marketing and Campaign Management
+•	Client Account and Contract Management
+•	Entitlement Management
+•	Grant Management
+•	Licensing, Approvals, and Permitting Management
+•	Investigation, Field Inspection, and Compliance Management
+•	Event Planning and Tracking Management
+•	Business Intelligence and Analytics
+•	Business Logic, Workflows, Automation, and Tracking
+•	Native Mobility capabilities including Offline Application Access
+
+The following products are available through the vendor negotiated agreements:
+
+Salesforce Products currently included in the agreement:
+
+1.	Sales Cloud: provides leads, marketing management and business development capabilities through its software as a service platform
+2.	Service Cloud: provides case management, service management and call centre integration across multiple channels
+3.	Lightning Force: is a platform as a service offering for developers to create applications and website through their integrated development environment and deploy them to salesforce’s multi-tenant servers.
 4.	Knowledge: add on with service cloud, available on essentials and unlimited edition. Built on knowledge articles, which are documents of information.
-5.	Customer community: communities are portals (or branded collaboration spaces) for customers and partners to connect, share information and collaborate. Enterprise, performance, unlimited and developer edition. Pricing is based per login or per member. 
-6.	Partner community
+5.	Customer Community: communities are portals (or branded collaboration spaces) for customers and partners to connect, share information and collaborate. Enterprise, performance, unlimited and developer edition. Pricing is based per login or per member. 
+6.	Partner Community: is a portal built to manage partner relationships, engagements, training and administrative tasks. 
 
-Salesforce products are offered on multiple editions:
-1.	Essential edition
-2.	Professional edition provides basic functionality
-3.	Enterprise edition provides additional features including custom automation, integration (API) access and more
-4.	Unlimited edition 
-5.	Developer edition
+MS Dynamics 365 Products currently included in the agreement:
 
-MS Dynamics Product offering:
-Provice of BC has negotiated price for Sales and Customer Service.
-
-1.	Marketing
-a.	Customer Insights
-b.	Forms Pro
-2.	Sales
+1.	Sales: enables automation of sales activities from leads acquisition to close of sale. Add on apps include:
 a.	Customer Insights
 b.	Microsoft Relationship Sales
 c.	Sales Insights
 d.	Forms Pro
-3.	Customer Service
+2.	Customer Service: provides functionality for case management, service management and service scheduling. Add on apps include:
 a.	Customer Service Insights
 b.	Customer Insights
 c.	Virtual Agent for Customer Service
 d.	Forms Pro
-4.	Field Service
+
+MS Dynamics 365 Products currently NOT included in the agreement (available upon request):
+
+3.	Marketing: provides functionality to improve sales through organizing events, personalize customer journey, and distributed marketing communications including email. Add on apps include:
+
+a.	Customer Insights
+b.	Forms Pro
+4.	Field Service: enables mobile workers with customer issue workflow automation, scheduling and tracking. Add on apps include:
 a.	Customer Insights
 b.	Remote Assist
 c.	Guides
 d.	Forms Pro
-5.	Finance
+5.	Finance: (formerly Dynamics AX) is an enterprise resource planning solution for organizing, automating and optimizing business processes in a organization. Add on apps include:
 a.	Business Central
-6.	Operations
+6.	Operations: Add on apps include:
 a.	Project Service Automation
 b.	Business Central
-7.	Commerce
+7.	Commerce: Add on apps include:
 a.	Fraud Protection
 b.	Customer Insights
-8.	Human Resources
+8.	Human Resources: Add on apps include:
 a.	Guides
 b.	Forms Pro
 
-Licencing based on individual access over multiple devices or device access for multiple users
 
-Tenancy and licencing
-
-Minimum licencing requirements
-
-External users
-
-Multiplexing
-
-Power Platform
-
-
-
-## Small
-Service operations between 2 user types as per below. Reporting volume is low (100s/year) and active users are between 10-20:
-
-•	User type 1 reports issues and incidents, requesting resolution through an online form
-
-•	User type 2 resolves issues and incidents reported
-
-Cost is determined based on following factors:
-
-1.	No of tenancy
-
-2.	No of licences (base)
-
-3.	No of licences (attached)
-
-4.	Data/tenancy
-
-5.	Office productivity integration
-
-6.	No of logins
-
-7.	No of add on custom apps
-
-8.	No of API calls
-
-9.	Internal network vs external network
-
-10.	No of page views; External user unauthenticated
-
-11.	On-premise vs software as a service
-
-12.	Advanced analytics/reporting + notifications
-
-	Small
-Internal user	10-20
-External users/contacts	500
-External form submissions	250
-API calls	250
-Data storage (GB)	50
-Data transfer in/out (GB)	50
-One-time cost	??
-Recurring cost (specify monthly/annual)	??
-
-## Medium
-
-
-Service operations between multiple user types as per below. Reporting volume is medium (1000s/year) and active users are between 100-200:
-
-•	User type 1 reports cases based on service catalogue type and severity
-
-•	User type 2 resolves issues and incidents reported
-
-•	User type 3 provides necessary approvals as needed
-
-Cost is determined based on following factors:
-
-1.	No of tenancy
-
-2.	No of licences (base)
-
-3.	No of licences (attached)
-
-4.	Data/tenancy
-
-5.	Office productivity integration
-
-6.	No of logins
-
-7.	No of add on custom apps
-
-8.	No of API calls
-
-9.	Internal network vs external network
-
-10.	No of page views; External user unauthenticated
-
-11.	On-premise vs software as a service
-
-12.	Advanced analytics/reporting + notifications
-
-	Medium
-Internal user	100
-External users/contacts	2000
-External form submissions	1000
-API calls	1000
-Data storage (GB)	200
-Data transfer in/out (GB)	200
-One-time cost	??
-Recurring cost (specify monthly/annual)	??
-
-
-
-## Large
-
-Complex service operations spanning multiple groups and service offering. Requires office productivity app integration and advanced analytics + notifications. Some custom app development may be required.
-
-Cost is determined based on following factors:
-
-1.	No of tenancy
-
-2.	No of licences (base)
-
-3.	No of licences (attached)
-
-4.	Data/tenancy
-
-5.	Office productivity integration
-
-6.	No of logins
-
-7.	No of add on custom apps
-
-8.	No of API calls
-
-9.	Internal network vs external network
-
-10.	No of page views; External user unauthenticated
-
-11.	On-premise vs software as a service
-
-12.	Advanced analytics/reporting + notifications
-
-
-	Large
-Internal user	1000
-External users/contacts	-
-External form submissions	4000
-API calls	4000
-Data storage (GB)	800
-Data transfer in/out (GB)	800
-One-time cost	??
-Recurring cost (specify monthly/annual)	??
-Advanced analytics package	??
 
 
