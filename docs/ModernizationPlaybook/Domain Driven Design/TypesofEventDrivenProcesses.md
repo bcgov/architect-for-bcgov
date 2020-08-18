@@ -2,7 +2,7 @@
 layout: default
 title: Types of Event Driven Systems
 parent: Domain Driven Design 
-grand_parent: Modernization Playbook
+grand_parent: Modernization Playbook 
 nav_order: 5
 ---
 
