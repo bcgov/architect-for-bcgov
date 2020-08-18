@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Compute
-grand_parent: Modernization Playbook
+grand_parent: Modernization Playbook 
 title: Virtual Machines
 nav_order: 2
 ---
