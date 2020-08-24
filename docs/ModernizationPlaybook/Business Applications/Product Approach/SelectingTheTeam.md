@@ -8,7 +8,6 @@ nav_order: 2
 
 # Selecting the Team​
 
-![Selecting the team]
 Which teams do you anticipate providing input/support in the development and management of the product? You want a team that not only checks all of the competencies boxes but also works well together and is synergistic in their work orchestration efforts. Team agility is the holy grail of team competencies, being able to shift directions at a moments notice without faltering. Pull together a group of  people to work on any project, and they will develop a culture of their own, and it will be as unique as the people in the group.
 
 The ideal team is:
