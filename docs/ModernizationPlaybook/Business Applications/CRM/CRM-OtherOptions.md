@@ -12,7 +12,7 @@ nav_order: 3
  
  Proprietary CRM solutions are finalized products which mostly require a subscription. If you would rather customize and modify the CRM solution to suit your needs, it is best to choose a free and open source CRM solution.
 
- Several open source solutions are available in the market. Though there are a few open source CRM solutions that are available as SaaS, most of these solutions are available to be consumed in the form of source code and would require a team of developers to implement the solution using on-prem or cloud infrastructure and maintain the same.
+ Several open source solutions are available in the market. Though there are a few open source CRM solutions that are available as SaaS, most of these solutions are available to be consumed in the form of source code and would require a team of developers to implement and maintain the solution using on-premise infrastructure.
 
  Some of the open source CRM solutions are given below:
 
@@ -54,7 +54,7 @@ SuiteCRM<sup> *3* </sup> is a free and open source CRM application written in PH
 
  Deploying a CRM solution using Cloud as opposed to hosting on premise has the following benefits:
 
-  1. There is no underlying hardware or infrastructure or maintain
+  1. There is no underlying hardware or infrastructure to maintain
   2. Ensures high availability and resilience
   3. There is tighter integrations with other cloud products
   4. It is easier and faster to implement a CRM solution on cloud
