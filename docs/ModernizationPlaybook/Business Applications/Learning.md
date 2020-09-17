@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Business Applications
+grand_parent: Modernization Playbook
 title: Learning Management System
 nav_order: 10
 ---

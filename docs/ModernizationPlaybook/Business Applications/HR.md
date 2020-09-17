@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Business Applications
+grand_parent: Modernization Playbook
 title: Human Resources
 nav_order: 5
 ---
