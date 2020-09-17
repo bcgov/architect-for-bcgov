@@ -1,6 +1,7 @@
 ---
 layout: default
 parent: Business Applications
+grand_parent: Modernization Playbook
 title: Portfolio Management
 nav_order: 15
 ---
