@@ -1,0 +1,34 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  folders:
+
+  - title: Home
+    output: web
+
+  - title: Priorities
+    output: web, pdf
+    folderitems:
+
+    - title: Support
+      url: /support.html
+      output: web
+
+    - title: Ecosystem
+      url: /ecosystem.html
+      output: web
+    
+    - title: Governance
+      url: /governance.html
+      output: web
+
+    - title: Community
+      url: /community.html
+      output: web
+
+
+  - title: Contact Us
+    output: web, pdf
+
+# Copyright 2021 Google LLC
