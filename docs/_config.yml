@@ -1,4 +1,4 @@
-remote_theme: "pmarsceill/just-the-docs"
+remote_theme: "jekyll-serif-theme"
 title: "Enterprise Architecture"
 aux_links:
   "Edit on Github":
