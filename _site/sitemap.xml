@@ -8,10 +8,28 @@
   
   
   <url>
+    <loc>http://localhost:4000/app-architecture-patterns.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/app-design-principles-openshift.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/index.html</loc>
   </url>
   
   
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pages/infra-overview.html</loc>
+  </url>
   
   
 </urlset>

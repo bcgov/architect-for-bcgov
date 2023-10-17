@@ -6,6 +6,25 @@ entries:
 
   - title: Home
     output: web
+    folderitems:
+       
+    - title: Enterprise Architecture Overview
+      url: /index.html
+      output: web
+
+  - title: Architectural References and Patterns
+    url: /architectural-patterns.html
+    output: web
+    folderitems:
+
+    - title: Application Architecture Patterns
+      url: /app-architecture-patterns.html
+      output: web
+    
+    - title: Application Design Principles on OpenShift
+      url: /app-design-principles-openshift.html
+      output: web
+  
 
   - title: Priorities
     output: web, pdf

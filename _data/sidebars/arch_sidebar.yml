@@ -1,0 +1,25 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  levels: one
+  folders:
+
+  - title: Architectural References and Patterns
+    output: web
+    folderitems:
+
+    - title: Application Architecture Patterns
+      url: /app-architecture-patterns.html
+      output: web
+    
+    - title: Application Design Principles on OpenShift
+      url: /app-design-principles-openshift.html
+      output: web
+
+    - title: OpenShift Error Messages and Resolution
+      url: /openshift-error-msgs-and-resolution.html
+      output: web
+
+
+  
