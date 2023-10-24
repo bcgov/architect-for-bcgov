@@ -1,53 +1,160 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
+- title: sidebar1
   folders:
 
-  - title: Home
+  - title:  Enterprise Architecture Home 
     output: web
     folderitems:
-       
-    - title: Enterprise Architecture Overview
+      
+      - title: Introduction to Enterprise Architecture 
+        url: /index.html
+        output: web
+        subfolders:
+
+        - title: Priorities
+          output: web
+          subfolderitems:
+
+          - title: Support
+            url: /support.html
+            output: web
+
+          - title: Ecosystem
+            url: /ecosystem.html
+            output: web
+        
+          - title: Governance
+            url: /governance.html
+            output: web
+
+          - title: Community
+            url: /community.html
+            output: web
+
+- title: sidebar2
+  folders:
+    - title: What's new in BC Gov?
       url: /index.html
       output: web
 
-  - title: Architectural References and Patterns
-    url: /architectural-patterns.html
-    output: web
-    folderitems:
-
-    - title: Application Architecture Patterns
-      url: /app-architecture-patterns.html
+- title: sidebar3
+  folders:
+    - title: Well Architected Framework
+      url: /index.html
       output: web
+
+- title: sidebar4
+  folders:
+    - title: Architectural References and Patterns
+      output: web
+      folderitems:
+
+      - title: Business Architecture Fundamentals
+        url: /business-architecture-patterns.html
+        output: web
+
+      - title: Application Architecture Fundamentals
+        output: web
+        url: /index.html
+        subfolders:
+       
+        - title: Architecture Styles
+          output: web
+          subfolderitems:
+
+        - title: Design Patterns
+          output: web
+          subfolderitems:
+
+        - title: Best Practices and Design Principles
+          output: web
+          subfolderitems:
+      
+          - title: Application Design Principles on OpenShift
+            url: /app-design-principles-openshift.html
+            output: web
+
+        - title: Performance Tuning and Antipatterns
+          output: web
+          subfolderitems:
+
+        - title: Responsible Engineering
+          output: web
+          subfolderitems:
+        
+        - title: Architecture for SaaS and Multitenancy
+          output: web
+          subfolderitems:
+
+        - title: Architecture for Mission Critical Applications
+          output: web
+          subfolderitems:
+        
+
+      - title: Data Architecture Fundamentals
+        url: /data-architecture-patterns.html
+        output: web
     
-    - title: Application Design Principles on OpenShift
-      url: /app-design-principles-openshift.html
-      output: web
-  
-
-  - title: Priorities
-    output: web, pdf
-    folderitems:
-
-    - title: Support
-      url: /support.html
-      output: web
-
-    - title: Ecosystem
-      url: /ecosystem.html
-      output: web
     
-    - title: Governance
-      url: /governance.html
+      - title: Technology Architecture Fundamentals
+        url: /data-architecture-patterns.html
+        output: web
+        subfolders:
+       
+        - title: Choosing the right technology
+          output: web
+          subfolders:
+
+          - title: Choosing a compute service
+            output: web
+            subfolderitems:
+        
+          - title: Choosing a storage service
+            output: web
+            subfolderitems:
+          
+          - title: Choosing a network service
+            output: web
+            subfolderitems:
+
+          - title: Choosing a data service
+            output: web
+            subfolderitems:
+        
+      - title: Security Architecture Fundamentals
+        output: web
+        url: sec-architecture-fundamentals.html
+        subfolders:
+
+- title: sidebar5
+  folders:
+    - title: Resusable Technology in BC Gov
+      url: /resuable-tech.html
+      output: web
+      folderitems:
+      - title: Common Platforms
+        output: web
+        folderitems:
+      - title: Common Applications
+        output: web
+        folderitems:
+      - title: Common Applications
+        output: web
+        folderitems:
+      - title: Common Tools
+        output: web
+        folderitems:
+      
+      
+      
+      
+- title: sidebar6
+  folders:
+    - title: Contact Us
+      url: /index.html
       output: web
 
-    - title: Community
-      url: /community.html
-      output: web
-
-
-  - title: Contact Us
-    output: web, pdf
 
 # Copyright 2021 Google LLC
