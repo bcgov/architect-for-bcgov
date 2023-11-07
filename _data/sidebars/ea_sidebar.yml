@@ -36,8 +36,12 @@ entries:
 - title: sidebar2
   folders:
     - title: What's new in BC Gov?
-      url: /index.html
       output: web
+      folderitems:
+      
+      - title: BC Gov Tech Ecosystem 
+        url: /tech.html
+        output: web
 
 - title: sidebar3
   folders:
@@ -71,6 +75,7 @@ entries:
         - title: Best Practices and Design Principles
           output: web
           subfolderitems:
+
       
           - title: Application Design Principles on OpenShift
             url: /app-design-principles-openshift.html
