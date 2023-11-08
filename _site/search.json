@@ -2,19 +2,19 @@
 [
 
 {
-"title": "Architectural References and Patterns",
+"title": "Application Design Principles for OpenShift",
 "tags": "",
 "keywords": "",
-"url": "app-architecture-patterns.html",
+"url": "app-design-principles-openshift.html",
 "summary": ""
 }
 ,
 
 {
-"title": "Application Design Principles for OpenShift",
+"title": "Design Principles for a Well Architected System",
 "tags": "",
-"keywords": "",
-"url": "app-design-principles-openshift.html",
+"keywords": "homepage",
+"url": "design-principles.html",
 "summary": ""
 }
 ,
@@ -33,15 +33,6 @@
 "tags": "",
 "keywords": "homepage",
 "url": "tech.html",
-"summary": ""
-}
-,
-
-{
-"title": "",
-"tags": "",
-"keywords": "",
-"url": "pagesinfra-overview.html",
 "summary": ""
 }
 

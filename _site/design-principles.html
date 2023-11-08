@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="keywords" content=" homepage">
-<title>BC Gov Technology Ecosystem | Enterprise Architecture</title>
+<title>Design Principles for a Well Architected System | Enterprise Architecture</title>
 <link rel="stylesheet" href="css/syntax.css">
 
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -137,7 +137,7 @@
 
 
 
-  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:?subject= feedback&body=I have some feedback about the BC Gov Technology Ecosystem page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
+  <a class="email" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:?subject= feedback&body=I have some feedback about the Design Principles for a Well Architected System page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
 
 </li>
 
@@ -157,7 +157,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: 'search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="BC Gov Technology Ecosystem">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="Design Principles for a Well Architected System">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -195,7 +195,7 @@
           
           
           
-          <li class="active"><a title="BC Gov Tech Ecosystem" href="tech.html">BC Gov Tech Ecosystem</a></li>
+          <li><a title="BC Gov Tech Ecosystem" href="tech.html">BC Gov Tech Ecosystem</a></li>
           
           
           
@@ -213,7 +213,7 @@
           
           
           
-          <li><a title="Design Principles" href="design-principles.html">Design Principles</a></li>
+          <li class="active"><a title="Design Principles" href="design-principles.html">Design Principles</a></li>
           
           
           
@@ -253,7 +253,7 @@
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
             <div class="post-header">
-   <h1 class="post-title-main">BC Gov Technology Ecosystem</h1>
+   <h1 class="post-title-main">Design Principles for a Well Architected System</h1>
 </div>
 
 
@@ -292,15 +292,201 @@ $('#toc').on('click', 'a', function() {
 
   <!--    -->
 
-   <h2 id="government-of-british-columbia-architecture-tech-ecosystem">Government of British Columbia Architecture Tech Ecosystem</h2>
+   <p>Every application is different and needs to be architected differently to optimize performance, efficiency, reliability and costs. However, there are some generic design principles that can be applied to establish a well architected system.</p>
 
-<h3 id="technoglogy-landscape">Technoglogy Landscape</h3>
+<h2 id="terminology">Terminology</h2>
 
-<figure><a class="no_icon" target="_blank" rel="noopener" href="http://jekyllrb.com"><img class="docimage" src="images/tech_landscape.png" alt="Jekyll" /></a><figcaption></figcaption></figure>
+<p><b> Reliability </b>: Reliability of a system is the probability that the system would work as designed.</p>
 
-<h3 id="common-technology">Common Technology</h3>
+<p><b> Availability </b>: Availability is the measure of percentage of a time period during which the system is able to respond to user requests.</p>
 
-<figure><a class="no_icon" target="_blank" rel="noopener" href="http://jekyllrb.com"><img class="docimage" src="images/common_tech.png" alt="Jekyll" /></a><figcaption></figcaption></figure>
+<p><b> Resilience </b>: Resilience is the ability of a system to recover on its own (self-heal) after a system failure.</p>
+
+<p><b> Fault Tolerance </b>: Fault tolerance is the ability of a system to continue functioning during the event of a failure to one or more of its components.</p>
+
+<p><b> Durability </b>: Durability of a system is its ability to meet user needs for a long period of time.</p>
+
+<p><b> Recovery Point Objective </b>: Recovery Point Objective (RPO) is the definition of acceptable amount of data loss measured in time for a given system. It is said that after a system downtime, the system can recover from the failure within the time defined as “RPO” for the system.</p>
+
+<p><b> Recovery Time Objective </b>: Recovery Time Objective (RTO) is the time it takes a system after a downtime/disruption to restore the service. For eg, a system can be maximum unavailable for the time defined as its “RTO”.</p>
+
+<h3 id="metrics-for-measurement">Metrics for measurement</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th><b> Parameter </b></th>
+      <th><b> Metrics </b></th>
+      <th><b> How is it calculated </b></th>
+      <th><b> Ideal Value </b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Reliability</td>
+      <td>Mean Time To Failure(MTTF), Mean Time To Recover(MTTR) and Mean Time Between Failures (MTBF)</td>
+      <td>MTTF is the average of the time between 2 consecutive failures, MTTR is the average of the time to recover and MTBF = MTTF+MTTR</td>
+      <td>All the three metrics should be low to signify high reliability</td>
+    </tr>
+    <tr>
+      <td>Availability</td>
+      <td>Uptime, Downtime, Agreed Service Time</td>
+      <td>Availability = ((Agreed Service Time) - Downtime)/ Agreed Service Time</td>
+      <td>*Availabilty chart is given below</td>
+    </tr>
+    <tr>
+      <td>Resilience</td>
+      <td>Mean time to repair (MTTR)</td>
+      <td>MTTR is the average of the time to repair a system post failure</td>
+      <td>Lower the MTTR, higher the resilience</td>
+    </tr>
+    <tr>
+      <td>Fault Tolerance</td>
+      <td>RPO, RTO</td>
+      <td>a fully fault tolerant system generally has zero downtime</td>
+      <td>RPO = RTO = zero</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="system-availability-chart">System Availability Chart</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th><b> Availability Level measure in uptime </b></th>
+      <th><b> Allowed downtime per year </b></th>
+      <th><b> Allowed downtime per quarter </b></th>
+      <th><b> Allowed downtime per day </b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>90%</td>
+      <td>36.5 days</td>
+      <td>9 days</td>
+      <td>2.4 hours</td>
+    </tr>
+    <tr>
+      <td>95%</td>
+      <td>18.25 days</td>
+      <td>4.5 days</td>
+      <td>1.2 hours</td>
+    </tr>
+    <tr>
+      <td>99%</td>
+      <td>3.65 days</td>
+      <td>21.6 hours</td>
+      <td>14.4 minutes</td>
+    </tr>
+    <tr>
+      <td>99.5%</td>
+      <td>1.83 days</td>
+      <td>10.8 hours</td>
+      <td>7.20 minutes</td>
+    </tr>
+    <tr>
+      <td>99.9%</td>
+      <td>8.76 hours</td>
+      <td>2.16 hours</td>
+      <td>1.44 minutes</td>
+    </tr>
+    <tr>
+      <td>99.95%</td>
+      <td>4.38 hours</td>
+      <td>1.08 hours</td>
+      <td>43.2 seconds</td>
+    </tr>
+    <tr>
+      <td>99.99%</td>
+      <td>52.6 minutes</td>
+      <td>12.96 minutes</td>
+      <td>8.64 seconds</td>
+    </tr>
+    <tr>
+      <td>99.999%</td>
+      <td>5.26 minutes</td>
+      <td>1.30 minutes</td>
+      <td>0.87 seconds</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="design-principles">Design Principles</h2>
+
+<p>To aim for higher availability, resilience, durability, reliability and fault tolerance of your systems and achieve close to zero RTO and RPO, it is recommended to incorporate some design principles while designing your application/system.</p>
+
+<h3 id="1-enable-scalability">1: Enable scalability</h3>
+
+<h4 id="11-scale-horizontally-to-increase-aggregate-workload-availabilty">1.1 Scale horizontally to increase aggregate workload availabilty</h4>
+
+<h4 id="12-stop-guessing-capacity-and-scale-vertically-to-add-resources-to-your-system-to-prevent-under--or-over--utilization-of-resources">1.2 Stop guessing capacity and scale vertically to add resources to your system to prevent under- or over- utilization of resources</h4>
+
+<h3 id="2-automate-your-environment">2: Automate your environment</h3>
+
+<h4 id="21-automatically-recover-from-failures">2.1 Automatically recover from failures</h4>
+
+<h4 id="22-manage-change-through-automation">2.2 Manage change through automation</h4>
+
+<h4 id="23-automate-with-architectural-experimentation-in-mind">2.3 Automate with architectural experimentation in mind</h4>
+
+<h4 id="24-perform-operations-as-code">2.4 Perform operations as code</h4>
+
+<h4 id="25-automate-security-best-practices">2.5 Automate security best practices</h4>
+
+<h3 id="3-use-disposable-resources">3. Use disposable resources</h3>
+
+<h4 id="31-make-frequent-small-reversible-changes">3.1 Make frequent, small. reversible changes</h4>
+
+<h3 id="4-loosely-couple-your-components">4. Loosely couple your components</h3>
+
+<h3 id="5-design-services-not-server">5. Design services, not server</h3>
+
+<h4 id="51-use-managed-services">5.1 Use managed services</h4>
+
+<h3 id="6-choose-the-right-compute-storage-network-database-solutions">6. Choose the right compute, storage, network, database solutions</h3>
+
+<h4 id="61-consider-mechanical-sympathy">6.1 Consider mechanical sympathy</h4>
+
+<h3 id="7-avoid-single-points-of-failure">7. Avoid single points of failure</h3>
+
+<h3 id="8-optimize-for-cost-benefits">8. Optimize for cost benefits</h3>
+
+<h4 id="81-analyze-and-attribute-expenditure">8.1 Analyze and attribute expenditure</h4>
+
+<h4 id="82-measure-overall-efficiency">8.2 Measure overall efficiency</h4>
+
+<h3 id="9-use-caching">9. Use caching</h3>
+
+<h3 id="10-secure-your-system-at-every-layer">10. Secure your system at every layer</h3>
+
+<h4 id="101-implement-a-strong-identity-foundation">10.1 Implement a strong identity foundation</h4>
+
+<h4 id="102-maintain-traceability">10.2 Maintain traceability</h4>
+
+<h4 id="103-protect-data-in-transit-and-at-rest">10.3 Protect data in transit and at rest</h4>
+
+<h4 id="104-keep-people-away-from-data">10.4 Keep people away from data</h4>
+
+<h4 id="105-prepare-for-security-events">10.5 Prepare for security events</h4>
+
+<h3 id="11-test-systems-at-production-scale">11. Test systems at production scale</h3>
+
+<h3 id="12-consider-evolutionary-architecture">12. Consider evolutionary architecture</h3>
+
+<h3 id="13-drive-architectures-using-data">13. Drive architectures using data</h3>
+
+<h3 id="14-improve-your-architecture-continuously-and-experiment-more-often">14. Improve your architecture continuously and experiment more often</h3>
+
+<h4 id="141-automate-simulations-of-system-failure-and-apply-recovery-processes-to-test-the-same">14.1 Automate simulations of system failure and apply recovery processes to test the same.</h4>
+
+<h4 id="142-refine-operation-procedures-frequently">14.2 Refine operation procedures frequently</h4>
+
+<h4 id="143-anticipate-failure-and-learn-from-all-operation-failures">14.3 Anticipate failure and learn from all operation failures</h4>
+
+<h4 id="144-implement-observability-for-actionable-insights">14.4 Implement observability for actionable insights</h4>
+
+<h4 id="145-democratize-advanced-technologies">14.5 Democratize advanced technologies</h4>
 
 
 
