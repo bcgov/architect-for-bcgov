@@ -51,59 +51,42 @@ Fault Tolerance    | RPO, RTO | a fully fault tolerant system generally has zero
 
 To aim for higher availability, resilience, durability, reliability and fault tolerance of your systems and achieve close to zero RTO and RPO, it is recommended to incorporate some design principles while designing your application/system.
 
-### 1: Enable scalability
-
-#### 1.1 Scale horizontally to increase aggregate workload availabilty
-
-#### 1.2 Stop guessing capacity and scale vertically to add resources to your system to prevent under- or over- utilization of resources
+ ### 1: Enable scalability
+ 1.1 Scale horizontally to increase aggregate workload availabilty
+ 1.2 Stop guessing capacity and scale vertically to add resources to your system to prevent under- or over- utilization of resources
 
 ### 2: Automate your environment
-
-#### 2.1 Automatically recover from failures
-
-#### 2.2 Manage change through automation 
-
-#### 2.3 Automate with architectural experimentation in mind
-
-#### 2.4 Perform operations as code
-
-#### 2.5 Automate security best practices
+ 2.1 Automatically recover from failures
+ 2.2 Manage change through automation 
+ 2.3 Automate with architectural experimentation in mind
+ 2.4 Perform operations as code
+ 2.5 Automate security best practices
 
 ### 3. Use disposable resources
-
-#### 3.1 Make frequent, small. reversible changes
+3.1 Make frequent, small. reversible changes
 
 ### 4. Loosely couple your components
 
 ### 5. Design services, not server
-
-#### 5.1 Use managed services
+5.1 Use managed services
 
 ### 6. Choose the right compute, storage, network, database solutions
-
-#### 6.1 Consider mechanical sympathy
+6.1 Consider mechanical sympathy
 
 ### 7. Avoid single points of failure
 
 ### 8. Optimize for cost benefits
-
-#### 8.1 Analyze and attribute expenditure
-
-#### 8.2 Measure overall efficiency
+8.1 Analyze and attribute expenditure
+8.2 Measure overall efficiency
 
 ### 9. Use caching
 
 ### 10. Secure your system at every layer
-
-#### 10.1 Implement a strong identity foundation
-
-#### 10.2 Maintain traceability
-
-#### 10.3 Protect data in transit and at rest
-
-#### 10.4 Keep people away from data
-
-#### 10.5 Prepare for security events
+10.1 Implement a strong identity foundation
+10.2 Maintain traceability
+10.3 Protect data in transit and at rest
+10.4 Keep people away from data
+10.5 Prepare for security events
 
 ### 11. Test systems at production scale
 
@@ -112,16 +95,11 @@ To aim for higher availability, resilience, durability, reliability and fault to
 ### 13. Drive architectures using data
 
 ### 14. Improve your architecture continuously and experiment more often
-
-#### 14.1 Automate simulations of system failure and apply recovery processes to test the same.
-
-#### 14.2 Refine operation procedures frequently
-
-#### 14.3 Anticipate failure and learn from all operation failures
-
-#### 14.4 Implement observability for actionable insights
-
-#### 14.5 Democratize advanced technologies
+14.1 Automate simulations of system failure and apply recovery processes to test the same.
+14.2 Refine operation procedures frequently
+14.3 Anticipate failure and learn from all operation failures
+14.4 Implement observability for actionable insights
+14.5 Democratize advanced technologies
 
 
 
