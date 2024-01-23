@@ -19,8 +19,8 @@ Welcome! This repository is actively managed by the OCIO Enterprise Architecture
 
 What do contributors need?
 
-- read our [architect-for-bcgov Code of Conduct](https://github.com/bcgov/architect-for-bcgov/master/CODE_OF_CONDUCT.md)
-- read our [architect-for-bcgov Contribution Guidelines](https://github.com/bcgov/architect-for-bcgov/master/CONTRIBUTING.md)
+- read our [architect-for-bcgov Code of Conduct](https://github.com/bcgov/architect-for-bcgov/blob/master/CODE_OF_CONDUCT.md)
+- read our [architect-for-bcgov Contribution Guidelines](https://github.com/bcgov/architect-for-bcgov/blob/master/CONTRIBUTING.md)
 - draw.io
 - visual studio code
 - locally installed git
