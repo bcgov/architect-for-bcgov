@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+    name: "ea-docs"
+    description: "A guide to Enterprise Architecture in the BC government."
+    annotations:
+        github.com/project-slug: bcgov/ocio-enterprise-architecture
+        backstage.io/techdocs-ref: dir:.
+spec:
+    type: documentation
+    lifecycle: production
+    owner: "citz"

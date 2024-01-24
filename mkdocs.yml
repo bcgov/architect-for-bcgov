@@ -1,0 +1,11 @@
+site_name: "${{ values.title }}"
+site_description: "${{ values.descriptions }}"
+docs_dir: "docs"
+plugins:
+    - techdocs-core
+    - ezlinks
+markdown_extensions:
+    - markdown_inline_mermaid
+    - md_in_html
+    -   mkpatcher:
+            location: patcher.py
