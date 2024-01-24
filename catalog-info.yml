@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+    name: "bcgov-it-architecture-docs"
+    title: "BC Government IT architecture docs"
+    description: "A guide to IT architecture in the BC government."
+    annotations:
+        github.com/project-slug: bcgov/architect-for-bcgov
+        backstage.io/techdocs-ref: dir:.
+spec:
+    type: documentation
+    lifecycle: production
+    owner: "ocio-enterprise-architecture"

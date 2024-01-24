@@ -1,0 +1,11 @@
+site_name: "BC Government IT architecture docs"
+site_description: "A guide to IT architecture in the BC government."
+docs_dir: "docs"
+plugins:
+    - techdocs-core
+    - ezlinks
+markdown_extensions:
+    - markdown_inline_mermaid
+    - md_in_html
+    -   mkpatcher:
+            location: patcher.py
