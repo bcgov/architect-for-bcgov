@@ -1,5 +1,5 @@
-site_name: "${{ values.title }}"
-site_description: "${{ values.descriptions }}"
+site_name: "BC Government IT architecture docs"
+site_description: "A guide to IT architecture in the BC government."
 docs_dir: "docs"
 plugins:
     - techdocs-core
