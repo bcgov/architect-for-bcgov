@@ -1,0 +1,586 @@
+<mxfile host="Electron" modified="2024-01-23T21:45:34.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="jo532uA3DjxIIBriXWg5" version="22.1.21" type="device">
+  <diagram name="Page-1" id="YJc7sIOILnoasNyL_Fnb">
+    <mxGraphModel dx="1242" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-1" value="Virtual Machines (Solaris and AIX)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="360" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-4" value="Physical Servers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-5" value="Containers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="1320" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-7" value="Storage&amp;nbsp;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="1960" width="125" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-14" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="240" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-40" as="sourcePoint" />
+            <mxPoint x="3330" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-17" value="Availability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="820" y="-90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="-75.5" as="sourcePoint" />
+            <mxPoint x="1090" y="-75.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="-80" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-21" value="Redundancy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" parent="1" vertex="1">
+          <mxGeometry x="2560" y="-100" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2730" y="-85.5" as="sourcePoint" />
+            <mxPoint x="2830" y="-85.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2490" y="-90" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=7;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2280" y="2160" as="sourcePoint" />
+            <mxPoint x="2280" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=7;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3400" y="2150" as="sourcePoint" />
+            <mxPoint x="3400" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="600" as="sourcePoint" />
+            <mxPoint x="3402" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="280" as="sourcePoint" />
+            <mxPoint x="3400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39" y="1880" as="sourcePoint" />
+            <mxPoint x="3400" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-37" value="RTO = days&lt;br&gt;RPO = days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-39" value="RTO = hours&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="-25" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-40" value="RTO = 1 hour&lt;br&gt;RPO = 15 minutes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2775" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-44" value="Outage Severity&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-46" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-47" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-48" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="820" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-51" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-52" value="rebuild, reconfigure, restore" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xVI4bHSSnw62Wtkzkx0F-51" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-55" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-56" value="Scheduled downtime&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xVI4bHSSnw62Wtkzkx0F-55" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-49" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-59" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="720" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-61" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-62" value="Scheduled downtime&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xVI4bHSSnw62Wtkzkx0F-61" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-63" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-64" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-65" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="240" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-67" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="240" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-68" value="RTO = days&lt;br&gt;RPO = days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-69" value="RTO = hours&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="295" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-70" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-71" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-72" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="820" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-73" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-74" value="rebuild, reconfigure, restore" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xVI4bHSSnw62Wtkzkx0F-73" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-75" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-76" value="Scheduled downtime&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xVI4bHSSnw62Wtkzkx0F-75" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-77" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-78" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="720" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-79" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-80" value="Scheduled downtime&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xVI4bHSSnw62Wtkzkx0F-79" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-81" value="RTO ~ minutes&lt;br&gt;RPO ~ N/A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3150" y="615" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-82" value="Outage Severity&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-83" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="560" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-84" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="790" y="560" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVI4bHSSnw62Wtkzkx0F-85" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="560" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-28" value="RTO = minutes to 0&lt;br&gt;RPO = minutes to 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1760" y="-30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-29" value="RTO = minutes to 0&lt;br&gt;RPO ~ 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2000" y="610" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-30" value="Virtual Machines (Linux and Windows)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="640" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-31" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="240" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-32" value="RTO = hours&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="840" y="620" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-33" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-34" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="795" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-35" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="795" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-36" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="680" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-37" value="rebuild, reconfigure, restore" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="kJDQElM9RxUQpWQGOyPs-36" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-38" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="675" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-39" value="Scheduled downtime&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="kJDQElM9RxUQpWQGOyPs-38" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-40" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="675" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-41" value="Kamloops Data Center, Single Instance Servers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="720" y="675" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-42" value="Recovery Options" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="675" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-43" value="Scheduled downtime&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="kJDQElM9RxUQpWQGOyPs-42" vertex="1">
+          <mxGeometry y="30" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-44" value="Outage Severity&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-45" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1160" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-46" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="875" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-47" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1705" y="875" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-48" value="RTO = minutes to 0&lt;br&gt;RPO = N/A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1650" y="610" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-50" value="RTO = days&lt;br&gt;RPO = days" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="615" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-51" value="Fault Tolerant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="-90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-54" value="Fault Tolerant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="3090" y="-80" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kJDQElM9RxUQpWQGOyPs-61" value="Kamloops Datacenter, Single Site Load Balancing, Database Server Clustering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="320" y="960" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-3" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="365" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-4" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-5" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="810" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-6" value="Outage Severity&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-7" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-8" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="780" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-9" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1205" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-10" value="Kamloops Datacenter, Single Site Load Balancing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1660" y="675" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-11" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2110" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-12" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2015" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-13" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-14" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2075" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-15" value="Kamloops Datacenter, Database Server Clustering" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2020" y="675" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" y="2160" as="sourcePoint" />
+            <mxPoint x="1600" y="-40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-17" value="RTO = hours&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2350" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3000" y="2160" as="sourcePoint" />
+            <mxPoint x="3000" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-20" value="Virtual Server Recovery Service (VSRS) in Kamloops with cold copy of server image in Calgary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2700" y="680" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-22" value="Active/Stand-by environment in Kamloops and Calgary Datacenter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2340" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-23" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2365" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-24" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2330" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-25" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2705" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-26" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2670" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-27" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2895" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-28" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2800" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-29" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2860" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-30" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2765" y="880" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-32" value="Global Site Load Balancing (GSLB) in Kamloops with Active/Stand-by configuration in Calgary combined with VSRS and data sync and session state considerations in application architecture" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3070" y="680" width="295" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-33" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="3095" y="795" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-34" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3060" y="875" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-35" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="3285" y="795" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-36" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="3190" y="795" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-37" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3250" y="875" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-38" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3155" y="875" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-40" value="OpenShift Silver Cluster - Single Node Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-41" value="OpenShift Emerald Cluster - Single Node Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-42" value="OpenShift Gold Cluster - Single Node Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-43" value="AWS ECS and RDS single AZ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-44" value="AWS ECS and RDS cross AZ replication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2375" y="1280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-45" value="AWS ECS cross region replication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3137.5" y="1280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-46" value="OpenShift Silver Cluster - Multi Node Deployment with Node anti-affinity rules and pod disruption budget" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="1280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-47" value="OpenShift Gold Cluster - Multi Node Deployment with Node anti-affinity rules and pod disruption budget&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="1650" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-48" value="OpenShift Gold and Gold DR Cluster Active/Active - Single Node Deployments with application architecture considering session state and data sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2330" y="1440" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-49" value="OpenShift Gold and Gold DR Cluster - Multi Node Deployment Active- Active with Node anti-affinity rules and pod disruption budget with application architecture considering session state and data sync&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="3070" y="1440" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-50" value="OpenShift Emerald Cluster - Multi Node Deployment with Node anti-affinity rules and pod disruption budget&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1860" y="1400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-52" value="OpenShift Gold and Gold DR Cluster Active/Passive - Single Node Deployments with application architecture considering session state and data sync" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="1440" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-53" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-54" value="Outage Severity&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="1680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-55" value="OpenShift Gold and Gold DR Cluster - Multi Node Deployment Active- Passive with Node anti-affinity rules and pod disruption budget with application architecture considering session state and data sync&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2645" y="1280" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-56" value="RTO = hours&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="1230" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-57" value="RTO = minutes&lt;br&gt;RPO = minutes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="1220" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-58" value="RTO = minutes&lt;br&gt;RPO = minutes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="1230" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-59" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="325" y="1690" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-60" value="OpenShift Silver Cluster - Single Node Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-61" value="OpenShift Emerald Cluster - Single Node Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-62" value="OpenShift Gold Cluster - Single Node Deployment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-63" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1355" y="1620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-64" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-65" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="435" y="1690" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-66" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="1700" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-72" value="RTO = hours&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="1220" width="540" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-73" value="AWS ECS and RDS single AZ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1500" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-74" value="OpenShift Silver Cluster - Multi Node Deployment with Node anti-affinity rules and pod disruption budget" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-75" value="OpenShift Gold Cluster - Multi Node Deployment with Node anti-affinity rules and pod disruption budget&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1630" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-76" value="OpenShift Emerald Cluster - Multi Node Deployment with Node anti-affinity rules and pod disruption budget&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1380" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-77" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-78" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="885" y="1800" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-79" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1960" y="1740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-80" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1925" y="1820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-81" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1845" y="1740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-82" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="1820" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-83" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="3085" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-84" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3050" y="1660" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-85" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="3285" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-86" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="3180" y="1580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-87" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3145" y="1660" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-88" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3250" y="1660" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-89" value="RTO ~ minutes&lt;br&gt;RPO ~ minutes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2550" y="1225" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-90" value="RTO ~ 0&lt;br&gt;RPO ~ 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="3162.5" y="1220" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-91" value="High" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2425" y="1560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-92" value="Major Disaster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2390" y="1640" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-93" value="Low" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2625" y="1560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-94" value="Medium" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="2520" y="1560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-95" value="Host Failure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2485" y="1640" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-96" value="Patching" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2590" y="1640" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-100" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1210" as="sourcePoint" />
+            <mxPoint x="3411" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfWOR-1bu20AFc-5pa2j-101" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="35" y="2160" as="sourcePoint" />
+            <mxPoint x="3396" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-1" value="OCIO Object Storage (automatically replicated across Kamloops and Calgary)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="2030" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-2" value="RTO ~ 15 min&lt;br&gt;RPO ~ 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3145" y="1890" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-4" value="OCIO Network Attached Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="2060" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-5" value="RTO = hours&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="1900" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-6" value="RTO = minutes&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="782.5" y="1910" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-7" value="OCIO Tier 3 Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="2060" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-8" value="RTO = minutes&lt;br&gt;RPO = hours" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1242.5" y="1900" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-9" value="OCIO Tier 2 Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2070" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-10" value="OCIO Tier 1 Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2070" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-11" value="OCIO Tier 3 SAN Replication across Kamloops and Calgary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2402.5" y="2040" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-12" value="OCIO Tier 2 and Tier 1 SAN Replication across Kamloops and Calgary" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2640" y="2040" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-13" value="RTO = hours/days&lt;br&gt;RPO = minutes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2425" y="1900" width="295" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-14" value="&lt;img aria-describedby=&quot;caption-attachment-28487&quot; loading=&quot;lazy&quot; class=&quot;wp-image-28487&quot; src=&quot;https://d2908q01vomqb2.cloudfront.net/972a67c48192728a34979d9a35164c1295401b71/2022/05/31/ClouldOps_913_2.png&quot; alt=&quot;Image 2: As RTO is reduced, the cost and complexity to achieve it goes up&quot; width=&quot;600&quot; height=&quot;257&quot; style=&quot;box-sizing: border-box; border: 0px; max-width: 100%; height: auto; width: auto; color: rgb(51, 51, 51); font-family: AmazonEmber, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: AmazonEmber, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;/span&gt;&lt;p id=&quot;caption-attachment-28487&quot; class=&quot;wp-caption-text&quot; style=&quot;box-sizing: border-box; margin-top: 0px; color: rgb(135, 145, 150); font-family: AmazonEmber, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Image 2: As RTO is reduced, the cost and complexity to achieve it goes up.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-680" width="500" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWmnnwKLsDquclvsGMP-15" value="&quot;High Availability/Redundancy&amp;nbsp; doesn&#39;t mean a high Recovery Time Objective or Recovery Point Objective, it only means, you might not need to know about your RTO/RPO most of the time.&quot;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-690" width="420" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

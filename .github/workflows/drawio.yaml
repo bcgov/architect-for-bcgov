@@ -1,0 +1,36 @@
+name: Render .drawio files
+
+on:
+    workflow_dispatch:
+    push:
+        branches: [ main ]
+        paths:
+            - .diagrams
+
+
+jobs:
+  render_drawio:
+    runs-on: ubuntu-latest
+    name: Render .drawio files
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Render .drawio files
+      uses: docker://ghcr.io/racklet/render-drawio-action:v1
+      with: # Showcasing the default values here
+        formats: 'svg'
+        sub-dirs: 'docs/pictures'
+        skip-dirs: '.git'
+        # files: '' # unset, specify `dest-file=src-file` mappings here
+        log-level: 'info'
+      id: render
+    - name: List the rendered files
+      run: 'ls -l ${{ steps.render.outputs.rendered-files }}'
+    - name: Commit the rendered files
+      uses: EndBug/add-and-commit@v7
+      with:
+        # This makes the GH Actions user/bot the author of the commit
+        default_author: github_actor
+        message: 'Automatically render .drawio files'
+        add: "${{ steps.render.outputs.rendered-files }}"
+      if: "${{ steps.render.outputs.rendered-files != ''}}"

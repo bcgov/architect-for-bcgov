@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
     name: "bcgov-it-architecture-docs"
-    title: "BC Government IT architecture docs"
+    title: "BC Government IT architecture blog"
     description: "A guide to IT architecture in the BC government."
     annotations:
         github.com/project-slug: bcgov/architect-for-bcgov
