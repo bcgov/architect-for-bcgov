@@ -10,13 +10,7 @@ Information Technology Architecture is the structural design and behaviour of mu
 
 In order to first understand the role of architects, Let us first take a look at BC Gov as an enterprise. BC Gov has 23 ministries, 12 central agencies, 29 crown corporations and 34 independent boards and tribunals each of whom cater to their respective end users using evolving technology which needs to be regulated with governance, standards, policies and compliance. The BC Government is a complex enterprise composed off several other enterprises. 
 
-Each enterprise is further defined by its business, data, applications, technology and security. Each employee(full time or part time or contractor) plays a role in one or more of these 5 layers. Focusing just on the architects, there are 14 different types of architects or roles that perform similar functions within BC Gov.
-
-1. Technical Architects                 2. Technology Architects                    3. System Architects
-4. Security Architects                  5. Application Architects                   6. DevOps Specialists
-7. Full Stack Developers                8. Data Architects                          9. Information Architects
-9. Cloud Architects                    10. Solution Architects                      11. Business Architects
-12. Enterprise Architects
+Each enterprise is further defined by its business, data, applications, technology and security. Each employee(full time or part time or contractor) plays a role in one or more of these 5 layers. Focusing just on the architects, there are 13 different types of architects or roles that perform similar functions within BC Gov: Technical Architects, Technology Architects, System Architects, Security Architects, Application Architects, DevOps Specialists, Full Stack Developers, Data Architects, Information Architects, Cloud Architects, Solution Architects, Business Architects, Enterprise Architects.
 
 The diagram below represents the different types of architects and their interation with the various layers. 
 
