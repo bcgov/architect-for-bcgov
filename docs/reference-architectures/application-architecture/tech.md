@@ -11,12 +11,12 @@ permalink: tech.html
 
 ### Technoglogy Landscape
 
-{% include image.html file="tech_landscape.png" url="http://jekyllrb.com" alt="Jekyll" caption="" %}
+![tech landscape](assets/images/tech-landscape.png)
 
 
-### Common Technology
+### Reusable Technology
 
-{% include image.html file="common_tech.png" url="http://jekyllrb.com" alt="Jekyll" caption="" %}
+![reusable tehnology](assets/images/common-tech.png)
 
 
 
