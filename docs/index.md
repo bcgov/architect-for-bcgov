@@ -28,6 +28,7 @@ The four pillars of the central EA function are:
 
 1. [A Service/Product Catalog for Private and Public Cloud Services (IDIR Protected)](https://bcgov.sharepoint.com/:x:/r/teams/08374/Shared%20Documents/General/bcgov_product_catalog.xlsx?d=w4ba2a72f36f645629208db5f474795c2&csf=1&web=1&e=o4HiFl) 
 2. [Reliability Trade Off and Patterns as well as RPO-RTO Matric (IDIR Protected)](https://bcgov.sharepoint.com/:x:/r/teams/08374/Shared%20Documents/General/rpo-rto-matrix.xlsx?d=w3875a6489a3b4e60b4c2588047897efd&csf=1&web=1&e=zeo0xW)
+3. [Resilience vs Availability Decision Swim Lane](https://github.com/bcgov/architect-for-bcgov/blob/main/pictures/Chaos-FlowChart.jpg)
 
 ## Contact Us
 

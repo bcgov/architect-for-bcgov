@@ -7,3 +7,8 @@ markdown_extensions:
     - md_in_html
     -   mkpatcher:
             location: patcher.py
+nav:
+- Getting Started:
+  - Introduction to Enteprise Architecture: index.md
+- Disaster Recovery:
+  - High Availability is not Disaster Recovery: resilience-design-principles.md 
