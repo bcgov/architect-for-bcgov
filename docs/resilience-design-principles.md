@@ -1,23 +1,28 @@
 ---
-title: Design Principles for a Well Architected System
-keywords: homepage
-sidebar: ea_sidebar
-permalink: design-principles.html
+title: High Availability is not Disaster Recovery
+permalink: resilience-design-principles.html
 ---
+
+# High Availability is not Disaster Recovery
 
 Every application is different and needs to be architected differently to optimize performance, efficiency, reliability and costs. However, there are some generic design principles that can be applied to establish a well architected system. 
 
 ## Terminology 
 
-<b> Reliability </b>: Reliability of a system is the probability that the system would work as designed.
+<b> Reliability </b>: If the components in a cloud computing system perform their functions and fail rarely, the system is said to be reliable. 
 
-<b> Availability </b>: Availability is the measure of percentage of a time period during which the system is able to respond to user requests.
+
+<b> Availability </b>: Availability is the measure of percentage of a time period during which the system is able to respond to user requests. For example, A cloud computing system is said to be 99. 9% if its scheduled or unscheduled downtime totals 3.65 days in a year or  14.4 minutes in a day 
+
+<b> Redundancy </b>: Redundancy refers to the duplication of certain components or functions within a system with the intention to increase its reliability and availability
 
 <b> Resilience </b>: Resilience is the ability of a system to recover on its own (self-heal) after a system failure.
 
 <b> Fault Tolerance </b>: Fault tolerance is the ability of a system to continue functioning during the event of a failure to one or more of its components.
 
 <b> Durability </b>: Durability of a system is its ability to meet user needs for a long period of time.
+
+<b> Disaster Recovery </b> : Disaster Recovery is an organization's ability to restore access and functionality to IT infrastruture after a disaster event ,whether natural or caused by human action.
 
 <b> Recovery Point Objective </b>: Recovery Point Objective (RPO) is the definition of acceptable amount of data loss measured in time for a given system. It is said that after a system downtime, the system can recover from the failure within the time defined as "RPO" for the system.
 
