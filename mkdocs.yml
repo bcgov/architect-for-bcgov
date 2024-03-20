@@ -12,7 +12,7 @@ nav:
   - Introduction to Enterprise Architecture: index.md
 - Disaster Recovery:
   - High Availability is not Disaster Recovery: resilience-design-principles.md 
-- Everything Cloud
+- Everything Cloud:
   - Data and AI:
     - The Data Assembly Line: data-assembly.md
     - Data Storage Options: data-storage.md
