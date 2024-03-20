@@ -14,7 +14,7 @@ nav:
   - High Availability is not Disaster Recovery: resilience-design-principles.md 
 - Everything Cloud:
   - Data and AI:
-    - The Data Assembly Line: data-assembly.md
-    - Data Storage Options: data-storage.md
-    - Data Analysis: data-analysis.md
-    - AI Terminology : ai-terminology.md
+    - The Data Assembly Line: ./everything-cloud/data-and-ai/data-assembly.md
+    - Data Storage Options: ./everything-cloud/data-and-ai/data-storage.md
+    - Data Analysis: ./everything-cloud/data-and-ai/data-analysis.md
+    - AI Terminology : ./everything-cloud/data-and-ai/ai-terminology.md
