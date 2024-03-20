@@ -15,6 +15,6 @@ nav:
 - Everything Cloud:
   - Data and AI:
     - The Data Assembly Line: ./everything-cloud/data-and-ai/data-assembly.md
-    - Data Storage Options: ./everything-cloud/data-and-ai/data-storage.md
+    - Data Storage Options: ./everything-cloud/data-and-ai/data-storage-options.md
     - Data Analysis: ./everything-cloud/data-and-ai/data-analysis.md
     - AI Terminology : ./everything-cloud/data-and-ai/ai-terminology.md
