@@ -56,7 +56,7 @@ Fault Tolerance    | RPO, RTO | a fully fault tolerant system generally has zero
 
 To aim for higher availability, resilience, durability, reliability and fault tolerance of your systems and achieve close to zero RTO and RPO, it is recommended to incorporate some design principles while designing your application/system.
 
- ### 1: Enable scalability
+### 1: Enable scalability
  1.1 Scale horizontally to increase aggregate workload availabilty
  1.2 Stop guessing capacity and scale vertically to add resources to your system to prevent under- or over- utilization of resources
 
