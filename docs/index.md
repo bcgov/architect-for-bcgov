@@ -1,8 +1,8 @@
-# BC Government IT Architectural Blog
+# BC Government IT Architectural Guidance
 
 ## Introduction 
 
-This blog is a collection of documents which is a living guide to IT architecture within the Government of British Columbia. This repository of documents is maintained by the OCIO Enterprise Architecture and created incollaboration with architects from ministries across BC Gov. These guidelines will help you with architectural decision making for developing and maintaining compliant, highly available, and resilient products in both private and public cloud. 
+ This repository of documents is maintained by the OCIO Enterprise Architecture and created incollaboration with architects from ministries across BC Gov. These guidelines will help you with architectural decision making for developing and maintaining compliant, highly available, and resilient products in both private and public cloud. 
 
 ## Enterprise Architecture
 
