@@ -1,0 +1,10 @@
+version: 1
+data_management_roles:
+  product_owner: 
+product_information:
+  ministry: CITZ
+  product_acronym: ea
+  product_description: A blog for IT architecture
+  product_name: enterprise-architecture
+product_technology_information:
+  hosting_platforms: Not-Applicable
