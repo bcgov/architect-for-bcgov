@@ -14,3 +14,15 @@ plugins:
     - git-revision-date-localized
 markdown_extensions:
     - md_in_html
+    -   mkpatcher:
+            location: patcher.py
+nav:
+- Getting Started:
+  - Introduction to Enterprise Architecture: index.md
+- Disaster Recovery:
+  - High Availability is not Disaster Recovery: resilience-design-principles.md 
+- Artificial Intelligence
+  - Large Language Models: 
+    - Chatbots
+       - Building a Chatbot in Google Cloud: ./artificial-intelligence/chatbot-gcp.md
+

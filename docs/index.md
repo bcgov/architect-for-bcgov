@@ -1,4 +1,3 @@
-
 # BC Government IT Architectural Guidance
 
 ## Introduction 
