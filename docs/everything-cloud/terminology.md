@@ -1,4 +1,0 @@
-# Terminology
-
-Infrastructure: 
-On Premises: 
