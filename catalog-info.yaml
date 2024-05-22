@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: enterprise-architecture-
+  title: "Enterprise Architecture "
+  description: A blog for IT architecture
+  annotations:
+    github.com/project-slug: bcgov/architect-for-bcgov
+    backstage.io/techdocs-ref: dir:.
+    bcgovpubcode.gov.bc.ca/ministry: CITZ
+    bcgovpubcode.gov.bc.ca/product_name: enterprise-architecture
+    bcgovpubcode.gov.bc.ca/product_acronym: ea
+    developer.gov.bc.ca/source_template: default/docs-template-v2
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:default/ocio-enterprise-architecture
