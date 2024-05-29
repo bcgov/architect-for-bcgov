@@ -22,6 +22,7 @@ nav:
 - Disaster Recovery:
   - High Availability is not Disaster Recovery: resilience-design-principles.md 
 - Artificial Intelligence
+  - AI Development Lifecycle: AI-Development-Lifecycle.md
   - Large Language Models: 
     - Chatbots
        - Building a Chatbot in Google Cloud: ./artificial-intelligence/chatbot-gcp.md
