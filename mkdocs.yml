@@ -21,7 +21,7 @@ nav:
   - Introduction to Enterprise Architecture: index.md
 - Disaster Recovery:
   - High Availability is not Disaster Recovery: resilience-design-principles.md 
-- Artificial Intelligence
+- Artificial Intelligence:
   - AI Development Lifecycle: AI-Development-Lifecycle.md
   - Large Language Models: 
     - Chatbots
