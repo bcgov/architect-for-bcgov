@@ -49,7 +49,10 @@ If you are looking for building a GenAI chatbot with on Retrieval-Augmented Gene
 
 ## Building the Agent
 1. For a `chat` agent, you can design how the chatbot interacts with clients from [DialogFlow CX](https://cloud.google.com/dialogflow?hl=en). Here are some useful settings you can config:
-  - pick a LLM for the chatbot to use
+  - pick a LLM for the chatbot to use. This is part of the agent settings, as of today there are three models available:
+    - text-bison@002
+    - gemini-1.0-pro-001
+    - gemini-1.5-flash-001 (preview)
   - select different data stores to use for knowledge base
   - design the flow:
     - define how the chatbot response in the situation with no user input or no match found. For example, direct to a human support if no answers found.
