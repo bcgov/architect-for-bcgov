@@ -55,7 +55,7 @@ If you are looking for building a GenAI chatbot with on Retrieval-Augmented Gene
     - gemini-1.5-flash-001 (preview)
   - select different data stores to use for knowledge base
   - design the flow:
-    - define how the chatbot response in the situation with no user input or no match found. For example, direct to a human support if no answers found.
+    - define how the chatbot response in the situation with no user input or no match found. For example, you could let a generative model handle the fallback when the question is outside of the KB, or have the chatbot direct user to a human support if no answers found.
     - create prompt and template. For example, if you could just like the chatbot to provide URL instead of text for response.
     - condition based routes. For example, if there are multiple ares of different supports you'd like the chatbot to provide, it could route users to different context based on the keywords captured.
 1. To test agent, you can initiate a simulator for quick testing within DialogFLow CX, where you can ask questions defined from the test plan and evaluate the result. <!-- TODO: Maybe some more information about testing? --> Afterwards, you can publish the agent for production usage.
