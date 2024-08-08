@@ -2,9 +2,11 @@
 
 ## Introduction 
 
-The Office of the Chief Information Officer (OCIO)'s Enterprise Architecture team creates architectural practices for ministries across government product teams. Our goal for best practices is being modern, cost effective, and standardize across B.C. Government. The outcome we strive for is human-centric digital services for B.C. resident.
+The Office of the Chief Information Officer (OCIO)'s Enterprise Architecture team creates architectural practices for ministries across government product teams. Our goal for best practices is modern, cost effective, and standardize across B.C. Government. The outcome we strive for is human-centric digital services for B.C. residents.
 
 We co-created our repository and documents with B.C. Government Architects. These guidelines help with architectural decision making for developing and keeping compliant, usable, and resilient products in both private and public cloud. 
+
+If you have any questions, concerns or feedback for [work in progress](#ea-work-in-progress), contact us as [CITZAS@gov.bc.ca](mailto:CITZAS@gov.bc.ca).
 
 ## Enterprise Architecture (EA)
 
@@ -23,9 +25,10 @@ The four pillars of the central EA function are:
 
 Information Technology Architecture is the structural design and behaviour of multiple components and subsystems in an organization. It uses various distinct practices. 
 
-Across government, we have numerous architectural roles, all of whom have different functions. Our team uses the title 'Enterprise Architect' because our work interweaves into other ministries and agencies. In comparison [generic example of other architects roles].
+Across government, we have numerous architectural roles, all of whom have different functions. Our team is 'Enterprise Architect' because our work interweaves into other ministries and agencies. In comparison [generic example of other architects roles].
 
 To comprehend the diversity of architects, let's look at government as an enterprise. We have: 
+
 * 23 Ministries
 * 12 Central Agencies
 * 29 Crown Corporations
@@ -33,7 +36,7 @@ To comprehend the diversity of architects, let's look at government as an enterp
 
 All entities use adaptive technology and needs regulation via governance, standards, and policies. Each entity is further defined by its business, data, applications, technology and security. 
 
-Focusing on the architects, there are 13 different types of architects:
+Focusing on the architects, there are 13 different roles:
 
 * Technical Architects
 * Technology Architects
@@ -55,9 +58,3 @@ Focusing on the architects, there are 13 different types of architects:
 1. [A Service/Product Catalog for Private and Public Cloud Services (IDIR Protected)](https://bcgov.sharepoint.com/:x:/r/teams/08374/Shared%20Documents/General/bcgov_product_catalog.xlsx?d=w4ba2a72f36f645629208db5f474795c2&csf=1&web=1&e=o4HiFl) 
 2. [Reliability Trade Off and Patterns as well as RPO-RTO Matric (IDIR Protected)](https://bcgov.sharepoint.com/:x:/r/teams/08374/Shared%20Documents/General/rpo-rto-matrix.xlsx?d=w3875a6489a3b4e60b4c2588047897efd&csf=1&web=1&e=zeo0xW)
 3. [Resilience vs Availability Decision Swim Lane](https://github.com/bcgov/architect-for-bcgov/blob/main/pictures/Chaos-FlowChart.jpg)
-
-## Contact Us
-
-To provide feedback on any of the work in progress, contact us as [CITZAS@gov.bc.ca](mailto:CITZAS@gov.bc.ca).
-
-
