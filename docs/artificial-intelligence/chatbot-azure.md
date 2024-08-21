@@ -41,6 +41,7 @@ If you are looking for building a GenAI chatbot with on Retrieval-Augmented Gene
   - search for `Azure OpenAI`
   - click on "+ Create" and complete the form. *Note* that currently GPT models are only available in `Canada East` region!
 1. make sure to install Azure CLI `az` as it's very useful. It's okay to start with the console and get familiar, but please note that the Azure AI services are evolving fast and the pages will be looking quite differently from time to time. It's always more reliable to use `az` in that case!
+1. It's also a good idea to setup an budget alert so you are aware of the current usage as development goes, and the ability to prep for the project budget based on the forecast.
 
 ## Building the Agent
 Azure has very good coverage from their documentation, we won't duplicate the same content over here. Now please go ahead and follow [this quick start guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart) to build a chatbot using your own knowledge base!

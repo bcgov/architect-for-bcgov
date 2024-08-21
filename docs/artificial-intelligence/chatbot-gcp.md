@@ -67,3 +67,4 @@ If you are looking for building a GenAI chatbot with on Retrieval-Augmented Gene
 Now you have a chatbot working, let's talk about maintenance.
 1. updating LLM: when there are newer and better LLMs available for the agent, you can make the switch directly from the agent settings. Changes are immediate, which can be tested right away.
 1. updating data stores: if there are new contents that you'd like to include for the chatbot knowledge base, you can re-upload them to the data stores. If this happens frequently, you should consider automating the process from data collection to data upload. Leverage the [Agent Builder API](https://cloud.google.com/generative-ai-app-builder/docs/apis) for the automation task.
+1. setting up budget alerts: this helps you to stay on top of how much have been spent instead of being caught by surprise at the end of the billing period!
