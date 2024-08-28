@@ -2,11 +2,11 @@
 
 ## Introduction 
 
-The Office of the Chief Information Officer (OCIO)'s Enterprise Architecture team creates architectural practices for ministries across government product teams. Our goal for best practices is modern, cost effective, and standardize across B.C. Government. The outcome we strive for is human-centric digital services for B.C. residents.
+The Office of the Chief Information Officer (OCIO)'s Enterprise Architecture team creates architectural practices for ministries across government product teams. Our goal is to make sure we collaborate and develop digital products that are cross-platform compatible, resilient and cost effective across B.C. Government. We deliver by adopting standardized development as well as architectural practices. The outcome we strive for is human-centric digital services for B.C. residents. 
 
-We co-created our repository and documents with B.C. Government Architects. These guidelines help with architectural decision making for developing and keeping compliant, usable, and resilient products in both private and public cloud. 
+Our repository and documents were co-created with B.C. Government Architects.
 
-If you have any questions, concerns or feedback for [work in progress](#ea-work-in-progress), contact us as [CITZAS@gov.bc.ca](mailto:CITZAS@gov.bc.ca).
+If you have any questions, concerns or feedback for [work in progress](#ea-work-in-progress), please contact us as [CITZAS@gov.bc.ca](mailto:CITZAS@gov.bc.ca).
 
 ## Enterprise Architecture (EA)
 
@@ -25,7 +25,7 @@ The four pillars of the central EA function are:
 
 Information Technology Architecture is the structural design and behaviour of multiple components and subsystems in an organization. It uses various distinct practices. 
 
-Across government, we have numerous architectural roles, all of whom have different functions. Our team is 'Enterprise Architect' because our work interweaves into other ministries and agencies. In comparison [generic example of other architects roles].
+Across government, we have numerous architectural roles, all of whom have different functions. Our team, Enterprise Architecture, is the centralized for B.C. Government. We help interweave architectural practices into other ministries and agencies across government by building a community of de-centralized enterprise architecture units, other architects, and product teams.
 
 To comprehend the diversity of architects, let's look at government as an enterprise. We have: 
 
