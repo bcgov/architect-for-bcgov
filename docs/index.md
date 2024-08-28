@@ -20,6 +20,7 @@ The four pillars of the central EA function are:
 
 ![pillars of EA](assets/images/pillars-of-EA.png)
 
+**Please note**: The Enterprise Architecture team isn't create and maintain governance for Artificial Intelligence.  
 
 ### Enterprise Architects and Architects
 
